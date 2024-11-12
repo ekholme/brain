@@ -6,8 +6,6 @@ tags:
   - databases
   - sqlite
 ---
- 
-*Disclaimer: if you're reading this, I'm not a database expert. These are kinda notes to myself (and potentially others who stumble upon them), and they're intended to organize my thoughts. Make of them what you will*
 
 ## What is SQLite?
 
@@ -49,7 +47,7 @@ sqlite3
 .open demo.db
 ```
 
-*Note that just running the `sqlite3` command without any arguments will connect to an in-memory database. So we're first opening an in-memory database, then saying "actually I want to connect to demo.db instead"
+*Note that just running the `sqlite3` command without any arguments will connect to an in-memory database. So we're first opening an in-memory database, then saying "actually I want to connect to demo.db instead"*
 
 Another way is to use a language with an SQLite3 library to do that, e.g. Python:
 
