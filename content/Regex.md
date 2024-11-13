@@ -1,5 +1,5 @@
 ---
-title: Note title
+title: Regex
 draft: false
 date: 2024-11-13
 tags:
