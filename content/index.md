@@ -1,6 +1,6 @@
 ---
 title: Brain
-recent_notes: false
+date: 2024-11-15
 ---
 
 This is a work-in-progress second brain. 
