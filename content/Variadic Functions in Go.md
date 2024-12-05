@@ -1,5 +1,5 @@
 ---
-title: Variadic Functions
+title: Variadic Functions in Go
 draft: false
 date: 2024-12-05
 tags:
