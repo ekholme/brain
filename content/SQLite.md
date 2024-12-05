@@ -5,6 +5,7 @@ date: 2024-11-11
 tags:
   - databases
   - sqlite
+  - sql
 ---
 
 ## What is SQLite?

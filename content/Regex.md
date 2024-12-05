@@ -13,5 +13,6 @@ tags:
 ### Matching Digits
 
 - To match a string with *n* digits: `\d{n}`
+- To match between (inclusive!) *n* and *m* digits: `\d{n,m}`
 - To match a string with one or more digits: `\d+`. Note that this *doesn't take brackets!*
 
