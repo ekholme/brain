@@ -33,6 +33,8 @@ Here's [a reference for these functions](https://usethis.r-lib.org/reference/ind
 - `use_testthat()` -- sets up testing via [testthat](https://testthat.r-lib.org/)
 - `use_mit_license()` -- adds the MIT license to the project
 - `use_pkgdown` or `use_pkgdown_github_pages()` -- creates a [pkgdown](https://pkgdown.r-lib.org/) docs site.
+- `use_package("pkg_name")` -- depend on another package
+- `use_dev_package("pkg_name", remote)` -- depend on a development package
 
 ## Other Readings
 
