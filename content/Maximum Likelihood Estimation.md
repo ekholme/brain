@@ -1,5 +1,5 @@
 ---
-title: Maximumn Likelihood Estimation
+title: Maximum Likelihood Estimation
 draft: false
 date: 2024-12-12
 tags:

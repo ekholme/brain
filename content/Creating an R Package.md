@@ -35,6 +35,7 @@ Here's [a reference for these functions](https://usethis.r-lib.org/reference/ind
 - `use_pkgdown` or `use_pkgdown_github_pages()` -- creates a [pkgdown](https://pkgdown.r-lib.org/) docs site.
 - `use_package("pkg_name")` -- depend on another package
 - `use_dev_package("pkg_name", remote)` -- depend on a development package
+- `use_git()` -- initializes a git repository for the package
 
 ## Other Readings
 
