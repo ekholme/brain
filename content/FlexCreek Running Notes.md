@@ -7,6 +7,8 @@ tags:
   - web_dev
   - learn_out_loud
 ---
+## Link to Github Repo
+[FlexCreek Github Repo](https://github.com/ekholme/flexcreek)
 ## 2024-12-11 Update
 
 Some odds and ends today, and mostly just scaffolding. I set up a pretty basic server struct, a constructor to create a new server, and then methods on the server to register routes and run the server. The application doesn't do anything different than it did before, but it's got a bit more structure to it.
