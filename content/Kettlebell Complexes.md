@@ -1,7 +1,7 @@
 ---
 title: Kettlebell Complexes
 draft: false
-date: 2024-12-11
+date: 2024-12-16
 tags:
   - kettlebells
   - training
@@ -15,6 +15,13 @@ Perform with a fairly heavy KB:
 - 4 single arm swing
 - 3 clean
 - 3 push press (use a lighter KB here if necessary)
+
+## Armor Building Complex (ABC)
+Perform with double kettlebells
+- 2 cleans
+- 1 press
+- 3 front squats
+*Can be extended to 4-2-6 or even 6-3-9*
 
 ## Devil's Tricycle
 Perform with a heavy KB
