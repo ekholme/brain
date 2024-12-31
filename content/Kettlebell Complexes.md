@@ -1,7 +1,7 @@
 ---
 title: Kettlebell Complexes
 draft: false
-date: 2024-12-16
+date: 2024-12-31T00:00:00
 tags:
   - kettlebells
   - training
@@ -22,6 +22,16 @@ Perform with double kettlebells
 - 1 press
 - 3 front squats
 *Can be extended to 4-2-6 or even 6-3-9*
+
+One way to turn this complex into a workout is to do it as an EMOM. I've been doing 30 min EMOMs, and it's been great. I'm not sure I'd go longer than 30 minutes, though.
+
+## Coyote
+Perform with a single KB
+- 15 swings
+- 5 goblet squats
+- 3 pushups
+
+To make this a workout, just do a bunch of rounds.
 
 ## Devil's Tricycle
 Perform with a heavy KB
