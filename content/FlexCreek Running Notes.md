@@ -1,7 +1,7 @@
 ---
 title: Flex Creek Running Notes
 draft: false
-date: 2024-11-25
+date: 2025-01-02
 tags:
   - go
   - web_dev
@@ -9,6 +9,16 @@ tags:
 ---
 ## Link to Github Repo
 [FlexCreek Github Repo](https://github.com/ekholme/flexcreek)
+
+## 2025-01-02 Update
+
+I think I want to change what FlexCreek is. After doing a bit more thinking, I believe I want it to be essentially a workout log. Basically a high-tech workout journal. I can record movements, workouts, and my performances on workouts (along with the date I completed them) along with notes describing how I felt.
+
+Some of the functionality will be the same, but a fair amount will be simplified by going this route, I think.
+
+In other news, I started work on the database schema. I started small, just creating 3 tables -- `movements`, `muscles`, and `movement_muscles`. This will allow me to start putting movements in and associating each movement with the muscles it recruits. My understanding is that this 3-table structure is best for capturing many-to-many relationships.
+
+The code is in `sql/migration.sql`, which I'll build out more once I start adding other elements (workouts, users, etc).
 ## 2024-12-11 Update
 
 Some odds and ends today, and mostly just scaffolding. I set up a pretty basic server struct, a constructor to create a new server, and then methods on the server to register routes and run the server. The application doesn't do anything different than it did before, but it's got a bit more structure to it.
