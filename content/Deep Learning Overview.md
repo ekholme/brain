@@ -29,7 +29,7 @@ The number of nodes in each layer is flexible and is up to the modeler to determ
 
 ## Deep Learning Frameworks
 
-Most deep learning projects are going to happen in Python.I'm going to preface this by saying I'm not a deep learning expert, but my understanding is that [PyTorch](https://pytorch.org) is probably the most popular deep learning framework in 2024. It's the only framework I've used in Python, but it feels pretty straightforward to work with. Plus there are tons of examples online.
+Most deep learning projects are going to happen in Python. I'm going to preface this by saying I'm not a deep learning expert, but my understanding is that [PyTorch](https://pytorch.org) is probably the most popular deep learning framework in 2024. It's the only framework I've used in Python, but it feels pretty straightforward to work with. Plus there are tons of examples online.
 
 [fastai](https://docs.fast.ai/) is a higher-level framework that simplifies/abstracts away some of the lower-level stuff in PyTorch. It makes it very easy to quickly train (or fine-tune) models to solve a variety of problems. I like it a lot, and it feels almost like cheating to use it...
 

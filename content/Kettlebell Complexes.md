@@ -25,6 +25,15 @@ Perform with double kettlebells
 
 One way to turn this complex into a workout is to do it as an EMOM. I've been doing 30 min EMOMs, and it's been great. I'm not sure I'd go longer than 30 minutes, though.
 
+## Single Arm ABC
+Perform with a single kettlebell
+- left arm clean & press
+- right arm clean & press
+- 2 front squats
+- right arm clean & press
+- left arm clean & press
+- 2 front squats
+
 ## Coyote
 Perform with a single KB
 - 15 swings
