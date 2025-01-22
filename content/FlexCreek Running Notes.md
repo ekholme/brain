@@ -10,6 +10,11 @@ tags:
 ## Link to Github Repo
 [FlexCreek Github Repo](https://github.com/ekholme/flexcreek)
 
+## 2025-01-22 Update
+
+I spent some time today working on a `MovementService` to write movements to the sqlite database. I'm still mostly just scaffolding, although I did *start* to write some of the functionality to create a new movement. I'll need to pick back up here next time. I think once I get the `CreateMovement` functionality done, I'll add a handler so I can check the functionality. 
+
+And I should probably also write a test at that point...
 ## 2025-01-16 Update
 
 It's been too long since I've worked on this, and I didn't even have all that much time today. I spent a bit of time remembering where I was (which wasn't all that far in), and doing some scaffolding. I set up a few skeleton routes in `server/server.go` to get and create movements, with both API and HTML endpoints. The next step is probably to implement a service that interacts with the db so that I can actually implement the logic and have these routes do something.
