@@ -10,6 +10,9 @@ tags:
 ## Link to Github Repo
 [FlexCreek Github Repo](https://github.com/ekholme/flexcreek)
 
+## 2025-01-27 Update
+
+I didn't have very much time today to work, and I had to do some searching on how to handle writing a record given the database schema. But I think I have a reasonable approach for `CreateMovement` now. I haven't tested it yet, so writing a handler and checking the functionality will be the next step.
 ## 2025-01-22 Update
 
 I spent some time today working on a `MovementService` to write movements to the sqlite database. I'm still mostly just scaffolding, although I did *start* to write some of the functionality to create a new movement. I'll need to pick back up here next time. I think once I get the `CreateMovement` functionality done, I'll add a handler so I can check the functionality. 
