@@ -10,6 +10,11 @@ tags:
 ## Link to Github Repo
 [FlexCreek Github Repo](https://github.com/ekholme/flexcreek)
 
+## 2025-01-31 Update
+
+I finally got a handler set up for creating a movement (`handleApiCreateMovement`), and I did an ad-hoc test (aka I started the server and ran a POST request to that route), and it seemed to work.
+
+The next step is to test the sqlite functionality, which I started doing in `sqlite/movement_test.go`. I have historically ignored testing my go code, so this might be slow-ish learning.
 ## 2025-01-27 Update
 
 I didn't have very much time today to work, and I had to do some searching on how to handle writing a record given the database schema. But I think I have a reasonable approach for `CreateMovement` now. I haven't tested it yet, so writing a handler and checking the functionality will be the next step.
