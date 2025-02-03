@@ -1,5 +1,5 @@
 ---
-title: Python Package Development
+title: Python
 draft: false
 date: 2025-01-15
 tags:

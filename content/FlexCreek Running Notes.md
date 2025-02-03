@@ -10,6 +10,11 @@ tags:
 ## Link to Github Repo
 [FlexCreek Github Repo](https://github.com/ekholme/flexcreek)
 
+## 2025-02-03 Update
+
+I wrote a pretty basic test for writing a movement to the sqlite database. I need to expand on the test cases, here, moving forward.
+
+I'm also realizing I don't have a create way to test writing muscles to the database (which get written along with movements), so I probably need to define a `MuscleService` as well. Otherwise, I'll be writing piecemeal SQL in multiple places when I need to handle muscle stuff
 ## 2025-01-31 Update
 
 I finally got a handler set up for creating a movement (`handleApiCreateMovement`), and I did an ad-hoc test (aka I started the server and ran a POST request to that route), and it seemed to work.
