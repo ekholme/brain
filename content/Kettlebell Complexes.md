@@ -34,6 +34,14 @@ Perform with a single kettlebell
 - left arm clean & press
 - 2 front squats
 
+## Big Bubba Flow
+Perform with a single **heavy** kettlebell
+- 1 deadlift
+- 1 hang row (2h row)
+- 1 swing
+- 1 goblet squat
+*when performing as a workout, do multiple 5-8 rds with ~30sec walk as rest. Also follow up with an equal number of heavy farmer's carries*
+
 ## Coyote
 Perform with a single KB
 - 15 swings

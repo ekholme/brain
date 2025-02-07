@@ -10,6 +10,13 @@ tags:
 ## Link to Github Repo
 [FlexCreek Github Repo](https://github.com/ekholme/flexcreek)
 
+## 2025-02-07 Update
+
+So, I did a couple of things today.
+
+First, I defined a helper function to handle creating a database used for testing (`sqlite/utils.go`).
+
+Second, I scaffolded a `MuscleService` struct and interface. My thinking is that, like `MovementService` will have methods for adding movements to the database, `MuscleService` will define these methods for adding muscles. At first this seemed like a decent idea, but I think I might be adding a bit more complexity than I need to be adding. The more I think about it, I feel like a better approach might just be to define these as functions within the `sqlite` package, especially since the `MovementService` will need to access these functions, since muscles will be read/written by the `MovementService`.
 ## 2025-02-03 Update
 
 I wrote a pretty basic test for writing a movement to the sqlite database. I need to expand on the test cases, here, moving forward.
