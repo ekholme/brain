@@ -1,7 +1,7 @@
 ---
 title: Flex Creek Running Notes
 draft: false
-date: 2025-01-02
+date: 2025-02-14
 tags:
   - go
   - web_dev
@@ -9,6 +9,34 @@ tags:
 ---
 ## Link to Github Repo
 [FlexCreek Github Repo](https://github.com/ekholme/flexcreek)
+
+## 2025-02-14 Update
+
+I shouldn't have waited a whole week to work on this. Oops.
+
+But, I figured out a solution to the issue of the dependency between the `MovementService` and `MuscleService` -- I injected the `MuscleService` interface into the `MovementService` struct. So the definition for a `movementService` in my `sqlite` package is now:
+
+```go
+type movementService struct {
+    db  *sql.DB
+    mus flexcreek.MuscleService
+}
+
+  
+
+func NewMovementService(db *sql.DB, mus flexcreek.MuscleService) flexcreek.MovementService {
+    return &movementService{
+        db:  db,
+        mus: mus,
+    }
+}
+```
+
+Which I think is a pretty tidy way to resolve this. It also presents me with a route forward when I start defining functionality for, like, a `WorkoutService`, because I'll need to inject `MovementService` as a dependency in there.
+
+Now that I have all of that figured out, I then went through and defined a bunch of CRUD methods for the `MuscleService`. The next step is to define all of the methods for `MovementService`. When I do this, I also need to clean up existing methods to ensure they call appropriate methods from the injected `MuscleService` rather than writing ad-hod to the database.
+
+Oh and then of course I need to write tests for both services.
 
 ## 2025-02-07 Update
 
