@@ -77,6 +77,6 @@ Generally, there's a tradeoff between sensitivity and specificity, such that wor
 
 The ROC Curve is a way to visualize the tradeoff between sensitivity and specificity. It shows the false positive rate (the x axis) plotted against the true positive rate for all possible thresholds. The ideal ROC Curve hugs the left and the top of the plot.
 
-![](https://commons.wikimedia.org/wiki/File:Roc_curve.svg#/media/File:Roc_curve.svg)
+![](https://cdn.prod.website-files.com/660ef16a9e0687d9cc27474a/662c42679571ef35419c9935_647607123e84a06a426ce627_classification_metrics_014-min.png)
 
 The area under the curve (AUC) provides a summary of model performance across all possible thresholds. A perfect AUC is 1.0. An AUC of 0.5 means that the model performs no better than randomly guessing.
