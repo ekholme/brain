@@ -18,7 +18,10 @@ Minimalist training is an approach to working out that emphasizes efficiency. Th
 - dropsets (go close to failure on a set, reduce the weight, then immediately go close to failure with the reduced weight)
 
 ## KB Workout Design
-a solid workout could be something like:
+
+There are multiple different ways to approach a minimalist workout using kettlebells. My go-to approach lately has been to do large volumes of KB complexes, such as the [[Kettlebell Complexes#Armor Building Complex (ABC)|Armor Building Complex]].
+
+Another approach is to do an AMRAP with antagonistic movements, e.g.:
 
 **AMRAP 20**
 - lower body push
@@ -27,12 +30,12 @@ a solid workout could be something like:
 - upper body pull
 
 *example*
-- 15 goblet squat
+- 10 goblet squat
 - 15 kb swings
 - 10 kb pushup
 - 20 gorilla row
 
-another variation of a full-body KB workout is a tabata-style with 2 circuits. Each circuit could have 3 exercises, 45s on/15s off, and you do each circuit for 4 rounds. This means you can get through the whole workout in ~25 mins. An example is:
+Another variation of a full-body KB workout is a tabata-style with 2 circuits. Each circuit could have 3 exercises, 45s on/15s off, and you do each circuit for 4 rounds. This means you can get through the whole workout in ~25 mins. An example is:
 
 **Circuit 1**
 - KB swing
@@ -43,3 +46,4 @@ another variation of a full-body KB workout is a tabata-style with 2 circuits. E
 - KB overhead press
 - KB RDL
 - KB pushup
+
