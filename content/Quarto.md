@@ -18,6 +18,9 @@ Quarto can be used to create websites, books, articles, presentations, and more.
 
 My [personal website](https://ericekholm.com/) ([GH](https://github.com/ekholme/ee-quarto-site)) is built using Quarto.
 
+## Related Notes
+- [[Quarto Templates in R Packages]]
+
 ## Useful Links
 
 - [Awesome Quarto](https://github.com/mcanouil/awesome-quarto): A curated list of Quarto docs, presentations, and examples

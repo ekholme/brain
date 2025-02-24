@@ -10,6 +10,11 @@ tags:
 ## Link to Github Repo
 [FlexCreek Github Repo](https://github.com/ekholme/flexcreek)
 
+## 2025-02-24
+
+Once again I took too much time off. Last week was weird with snow, but that's also an excuse.
+
+It took a bit to shake off the rust, but I basically just wrote the `GetMovementByID` functionality this afternoon (see `sqlite/movement.go`). I haven't tested it out, yet, though, so that's the next step I guess.
 ## 2025-02-14 Update
 
 I shouldn't have waited a whole week to work on this. Oops.
