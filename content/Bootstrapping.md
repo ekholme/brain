@@ -6,6 +6,7 @@ tags:
   - stats
   - algorithms
   - julia
+  - resampling
 ---
  
 ## What is Bootstrapping
