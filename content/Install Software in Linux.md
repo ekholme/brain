@@ -7,7 +7,6 @@ tags:
   - shell
 ---
 This is a generic guide for how to download and install something in Linux.
-
 ## Using apt
 
 The easiest way to install something is to use the `apt` package manager. The general workflow here is to do the following:
