@@ -15,6 +15,10 @@ tags:
 I spent a few minutes working today, and I wrote an API endpoint to get a movement by ID (`handleAPIGetMovementByID`). I want to write functionality to retrieve by name next, though, and I probably need to change how I'm defining paths in the API. Rather than having a request to get an API by ID go to the route `api/v1/movement/{id}`, I probably want it to go to `api/v1/movement/id/{id}`, which would allow me to route names via `api/v1/movement/name/{name}`. An alternative, though, would be to use query parameters, e.g. `api/v1/movement?id={id}` or something.
 
 I think I prefer having different routes for each request type, but I want to think on it more.
+
+Unrelated, but I think I might also want to add a `GetLatestWorkout` method?
+
+I also want to add some logging soon, I think.
 ## 2025-02-24
 
 Once again I took too much time off. Last week was weird with snow, but that's also an excuse.

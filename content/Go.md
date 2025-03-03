@@ -15,5 +15,6 @@ I really like Go, but it's not a great language for data science tasks, so I don
 ## Related Links
 
 - [[Writing to a Database with Go and SQLite]]
+- [[Working with SQL DBs in Go]]
 - [[Variadic Functions in Go]]
 - [[FlexCreek Running Notes]]
