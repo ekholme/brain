@@ -10,6 +10,13 @@ tags:
 ## Link to Github Repo
 [FlexCreek Github Repo](https://github.com/ekholme/flexcreek)
 
+## 2025-03-04
+
+I didn't have that long to work today, but I spent some time fixing the API endpoint naming (see below). I also consolidated some logic associated with getting all of the muscles associated with a movement into a method (see `movementService.GetMovementMuscles())`, which reduced some duplication in the code. And I wrote a couple of other methods for getting movements from the sqlite database. 
+
+The next step is probably to write the `DeleteMovement` method, then start to take care of some more API endpoints. And from there I can branch out to start working on `Workout` stuff and finally get beyond just `Movement`.
+
+Although I should probably write some tests and add logging before doing that?
 ## 2025-02-26
 
 I spent a few minutes working today, and I wrote an API endpoint to get a movement by ID (`handleAPIGetMovementByID`). I want to write functionality to retrieve by name next, though, and I probably need to change how I'm defining paths in the API. Rather than having a request to get an API by ID go to the route `api/v1/movement/{id}`, I probably want it to go to `api/v1/movement/id/{id}`, which would allow me to route names via `api/v1/movement/name/{name}`. An alternative, though, would be to use query parameters, e.g. `api/v1/movement?id={id}` or something.
