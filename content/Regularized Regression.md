@@ -43,4 +43,14 @@ The benefits of ridge regression are due to the [[Bias Variance Tradeoff]] -- sh
 
 ## LASSO
 
-TODO
+One drawback of ridge regression is that it will include all predictors in the final model. Some predictor $\beta$s will be very small, but ridge regression won't set any to 0 unless $\lambda = \infty$.
+
+The lasso coefficients can set parameter estimate to 0. Lasso regression attempts to minimize:
+$$
+RSS + \lambda \sum_{j=1}^p|\beta_{j}|
+$$
+The difference between lasso and ridge is that ridge uses squared beta coefficients in the penalty term, whereas lasso uses the absolute value of beta coefficients. This difference allows some $\beta$ to be set to exactly 0 if $\lambda$ is large enough. So, lasso regression can do variable selection. As a result, lasso yields *sparse* models.
+
+In general, neither the lasso nor the ridge model will dominate over the other. We might expect the lasso to perform better if there are a relatively small number of predictors in the dataset with signal, whereas we might expect the ridge to perform better when we have many predictors that are (roughly) equally important. We probably don't know this at the outset, though, so -- as is the case with many things in stats -- we should use cross-validation to test several models and see which seems to work better on our problem.
+
+To choose a value of $\lambda$, we use cross-validation with a grid of $\lambda$ values. For all $\lambda$, we compare the cross-validation error, then we choose the one that minimizes the error. Then we fit our final model with that $\lambda$.
