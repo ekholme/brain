@@ -48,4 +48,5 @@ g.map(sns.histplot, "max_stem_height_m", bins=20)
 plt.show()
 ```
 
-![[img/seaborn_faceted_histogram.png]]
+
+![](/img/seaborn_faceted_histogram.png)
