@@ -15,9 +15,12 @@ This is a hub for notes and codelabs/notebooks associated with Google's 5 Day In
 - [[Foundational LLMs and Text Generation]]
 - [[Prompt Engineering]]
 - [[LLM Evaluation]]
+- [[Embeddings]]
 
 ## Code Labs & Kaggle Notebooks
 
 - [Day 1 - Prompting](https://www.kaggle.com/code/ekholme/day-1-prompting/edit)
 - [Day 1 - Evaluation and Structured Output](https://www.kaggle.com/code/ekholme/day-1-evaluation-and-structured-output/edit)
-
+- [Day 2 - Document Q&A with RAG](https://www.kaggle.com/code/ekholme/day-2-document-q-a-with-rag/edit)
+- [Day 2 - Embeddings and Similarity Scores](https://www.kaggle.com/code/ekholme/day-2-embeddings-and-similarity-scores/edit)
+- [Day 2 - Classifying embeddings with Keras and the Gemini API](https://www.kaggle.com/code/ekholme/day-2-classifying-embeddings-with-keras/edit)
