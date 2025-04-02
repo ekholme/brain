@@ -64,7 +64,7 @@ Of course, these are all guidelines.
 
 *Chain of thought (CoT) prompting* asks the model to walk through its thought process -- to explicitly generate intermediate results on the way to its final output. This can often yield better results, but the tradeoff is that the output will be longer (which can be slower and more expensive).
 
-*Tree of thoughts (2T) prompting* is a generalization of CoT. The model is asked to branch out, explore several chains of thought, and backtrack as needed before supplying a final answer.
+*Tree of thoughts (ToT) prompting* is a generalization of CoT. The model is asked to branch out, explore several chains of thought, and backtrack as needed before supplying a final answer.
 
 *ReAct (reason and act) prompting* combines the reasoning step (which all of the other prompting strategies elicit) with an action step, and the results of the action step will then inform the next step. For example, the LLM might reason about what code to write, then act by executing this code. The results of this code execution can then inform the next ReAct cycle.
 

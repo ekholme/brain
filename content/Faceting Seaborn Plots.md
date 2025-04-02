@@ -49,4 +49,4 @@ plt.show()
 ```
 
 
-![](/img/seaborn_faceted_histogram.png)
+![](seaborn_faceted_histogram.png)
