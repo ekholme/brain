@@ -65,8 +65,10 @@ Extensions can be modular -- they can be crafted independent of the agent, then 
 
 An illustration of extensions in the agent architecture is shown below:
 
-![](/public/img/ai_agent_extensions.png)
+![](/img/ai_agent_extensions.png)
 
+
+![[ai_agent_extensions.png]]
 Google provides several "out of the box" extensions in Vertex AI. See p. 16 of [this whitepaper](https://drive.google.com/file/d/1W8EnoPXRLTQesfjvb-b3Zj-dnBf1f--n/view) for an example using the `code_interpreter` extension.
 
 ### Functions
@@ -86,8 +88,8 @@ So, using the flights example, the model might output something like:
 
 The image below illustrates the different between extensions and functions:
 
-![](/public/img/ai_agent_functions_vs_extensions.png)
-
+![](/img/ai_agent_functions_vs_extensions.png)
+![[ai_agent_functions_vs_extensions.png]]
 In general, functions offer the developer much more control over how data flows through their application than extensions do.
 
 Page 26 of [this whitepaper](https://drive.google.com/file/d/1W8EnoPXRLTQesfjvb-b3Zj-dnBf1f--n/view) contains an example of how to write code to generate a function.
