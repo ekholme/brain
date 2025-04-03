@@ -8,8 +8,7 @@ tags:
   - google
   - llms
 ---
-TODO -- WRITE INTRO
-
+[Google Gemini](https://deepmind.google/technologies/gemini/) is a foundational, general-purpose LLM. It is essentially the model that powers many of the AI services in [[Vertex AI]] and other Google products.
 ## Python API
 
 Google provides the [Google Gen AI Python SDK](https://pypi.org/project/google-genai/) for interacting with the Gemini developer API (as well as for interacting with Vertex AI)

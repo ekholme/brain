@@ -17,6 +17,7 @@ This is a hub for notes and codelabs/notebooks associated with Google's 5 Day In
 - [[LLM Evaluation]]
 - [[Embeddings]]
 - [[AI Agents]]
+- [[Fine Tuning LLMs]]
 
 ## Code Labs & Kaggle Notebooks
 
@@ -27,4 +28,5 @@ This is a hub for notes and codelabs/notebooks associated with Google's 5 Day In
 - [Day 2 - Classifying embeddings with Keras and the Gemini API](https://www.kaggle.com/code/ekholme/day-2-classifying-embeddings-with-keras/edit)
 - [Day 3 - Function Calling with the Gemini API](https://www.kaggle.com/code/ekholme/day-3-function-calling-with-the-gemini-api/edit)
 - [Day 3 - Building an agent with LangGraph](https://www.kaggle.com/code/ekholme/day-3-building-an-agent-with-langgraph/edit)
-
+- [Day 4 - Fine Tuning a Custom Model](https://www.kaggle.com/code/ekholme/day-4-fine-tuning-a-custom-model/edit)
+- [Day 4 - Google Search Grounding with the Gemini API](https://www.kaggle.com/code/ekholme/day-4-google-search-grounding/edit). Grounding is a framework that gives the model access to Google Search (in this case) to confirm answers.

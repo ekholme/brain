@@ -6,6 +6,9 @@ This is [my](https://ericekholm.com) second brain, where I keep notes on all sor
 
 Probably the best way to navigate is to just search for content, but here are a few notes I've been thinking about recently:
 
+## AI
+- [[Google Gen AI Course]]: contains links to notes central to AI and LLMs
+
 ## Fitness
 -  [[Kettlebell Complexes]]
 - [[Armor Building Formula]]
