@@ -11,6 +11,7 @@ tags:
 ## Links
 - [Link to podcast](https://www.youtube.com/watch?v=D3Kaqz7VW28&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=5)
 - [Link to whitepaper](https://drive.google.com/file/d/1W8EnoPXRLTQesfjvb-b3Zj-dnBf1f--n/view)
+- [Google Cloud AI Agent Starter Pack Repo](https://github.com/GoogleCloudPlatform/agent-starter-pack?tab=readme-ov-file)
 
 ## What is an AI Agent?
 

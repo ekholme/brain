@@ -18,6 +18,7 @@ This is a hub for notes and codelabs/notebooks associated with Google's 5 Day In
 - [[Embeddings]]
 - [[AI Agents]]
 - [[Fine Tuning LLMs]]
+- [[MLOps]]
 
 ## Code Labs & Kaggle Notebooks
 
@@ -30,3 +31,18 @@ This is a hub for notes and codelabs/notebooks associated with Google's 5 Day In
 - [Day 3 - Building an agent with LangGraph](https://www.kaggle.com/code/ekholme/day-3-building-an-agent-with-langgraph/edit)
 - [Day 4 - Fine Tuning a Custom Model](https://www.kaggle.com/code/ekholme/day-4-fine-tuning-a-custom-model/edit)
 - [Day 4 - Google Search Grounding with the Gemini API](https://www.kaggle.com/code/ekholme/day-4-google-search-grounding/edit). Grounding is a framework that gives the model access to Google Search (in this case) to confirm answers.
+
+## Whitepapers
+
+- [Foundational LLMs and Text Generation](https://drive.google.com/file/d/1rYu-mIcsTrAeCuH-xHPofrI1i1qNVzqO/view)
+- [Prompt Engineering](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
+- [Embeddings and Vector Stores](https://drive.google.com/file/d/12AI7lRBc8DQvqMGmit3mcgL3rsZwkEID/view)
+- [AI Agents](https://drive.google.com/file/d/1W8EnoPXRLTQesfjvb-b3Zj-dnBf1f--n/view)
+- [Solving Domain-Specific Problems Using LLMs](https://drive.google.com/file/d/17oA0s8yh8xNZ5ZKiM7cR3lPFlRO-P02a/view)
+- [Operationalizing Generative AI on Vertex AI](https://drive.google.com/file/d/1di0wyazJkwLA4VbXoBDqxveaJOwFmdJF/view)
+
+## Videos
+
+- [Link to podcast playlist](https://www.youtube.com/playlist?list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE)
+- [Link to livestream playlist](https://www.youtube.com/playlist?list=PLqFaTIg4myu-lbBTrUpoQQIzZZxvrOaP5)
+
