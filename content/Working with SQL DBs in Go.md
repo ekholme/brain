@@ -15,4 +15,5 @@ There are 3 methods available for executing queries:
 - [DB.QueryRow()](https://pkg.go.dev/database/sql/#DB.QueryRow) for `SELECT` queries that return a single row;
 - [DB.Exec()](https://pkg.go.dev/database/sql/#DB.Exec) for queries that don't return any rows (e.g. `INSERT`)
 
-RESUME HERE
+## DB.Exec()
+

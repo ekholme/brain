@@ -34,7 +34,7 @@ Embeddings also allow for [[Retrieval Augmented Generation]] (RAG) with LLMs. Pa
 
 The process for generating text embeddings is:
 
-![[text embedding flowchart|100%]]
+![[img/text embedding flowchart|100%]]
 
 Tokenization refers to breaking apart text into words, wordpieces, characters, numbers, and puncation using a tokenizing technique. After the string is tokenized, each token is assigned an integer value in the range `[0, cardinality of vocabulary]`. So if we had a 16 word vocabulary (which is unrealistically small), the IDs would range from 0-15. This process is called *indexing*, and it results in a $k$-dimensional categorical representation of our text. We can one-hot encode this if we wanted, but it's typically more useful to turn this into embeddings.
 
