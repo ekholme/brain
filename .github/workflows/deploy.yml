@@ -30,8 +30,10 @@ jobs:
         run: npx quartz build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
-        with:
-          path: public
+        with:          
+          path: public          
+      - name: Copy images
+        run: cp -r img public/
 
   deploy:
     needs: build
