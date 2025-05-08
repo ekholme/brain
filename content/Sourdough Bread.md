@@ -21,6 +21,9 @@ Assuming we already have a ripe (fed) starter, the general steps for making a "p
 8. **Bake**: Bake the bread! This is probably around ~450F and anywhere from 25 minutes to 50 minutes. If using steam, remove the steam source (e.g. take the lid off the dutch oven) after ~30 minutes.
 9. **Let Cool**: remove from the oven and allow the bread to cool for about an hour before slicing.
 
+## Recipes
+- [[Basic Sourdough Boule Recipe]]
+
 ## Resources
 
 - [The Sourdough Framework](https://www.the-sourdough-framework.com/): a science-y book on sourdough
