@@ -11,7 +11,7 @@ tags:
 ## Popular Offerings
 Some popular GCP offerings -- at least ones that I tend to use -- include:
 
-- [Compute Engine](https://cloud.google.com/products/compute), which offers virtual machines (VMs) to users;
+- [[Google Compute Engine (GCE)]], which offers virtual machines (VMs) to users;
 - [Cloud Storage](https://cloud.google.com/storage), which offers object storage;
 - [BigQuery](https://cloud.google.com/bigquery), an analytics data warehouse;
 - [Cloud Run](https://cloud.google.com/run), a managed/serverless compute platform;

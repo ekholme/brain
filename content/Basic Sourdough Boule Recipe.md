@@ -8,7 +8,7 @@ tags:
 ---
 ## Ingredients
 - 500g bread flour
-- 375g lukewarm water (75%)
+- 350g lukewarm water (70%)
 - 100g starter (20%)
 - 10g salt
 
@@ -21,7 +21,7 @@ This assumes I'm baking on a weekday and need to work around my work schedule, b
 ### Afternoon/Evening 1 (after work)
 - Make shaggy dough by loosely mixing flour, water, and starter together in large glass bowl
 - Fermentolyse for 30 minutes -- cover and let dough rest on counter for ~30 mins
-- Gently mix in salt
+- Gently mix in salt. Knead for a few minutes.
 - Transfer to lightly oiled (or floured) 2 quart plastic tub
 - For next ~5 hours, bulk ferment in tub. Stretch and fold every hour or so to build dough strength. Keep lid on tub when not actively working it
 - Preshape dough and transfer to a lightly floured banneton.

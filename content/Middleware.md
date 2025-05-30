@@ -10,7 +10,7 @@ In a web server, a middleware is a function that sits between the incoming reque
 
 Some typical use cases for middleware include logging, authorization, and authentication, among others.
 
-Middlewares can be (and often are) chained together. So, a logging middleware could pass a request to an authentication middle, which could then pass the request to the actual handler function.
+Middlewares can be (and often are) chained together. So, a logging middleware could pass a request to an authentication middleware, which could then pass the request to the actual handler function.
 
 ## Pattern
 

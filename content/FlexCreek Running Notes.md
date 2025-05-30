@@ -10,6 +10,37 @@ tags:
 ## Link to Github Repo
 [FlexCreek Github Repo](https://github.com/ekholme/flexcreek)
 
+## 2025-05-29
+
+Only spent a little bit of time working today, but I redefined a movement struct. It's much simpler this time, because I think I want this to transition to a workout/performance tracking app rather than a workout recommender. So the signature is
+
+```go
+type Movement struct {
+    ID          int       `json:"id"`
+    Name        string    `json:"name"`
+    Description string    `json:"description"`
+    CreatedAt   time.Time `json:"createdAt"`
+    UpdatedAt   time.Time `json:"updatedAt"`
+}
+```
+
+At least that's what it is for now. And I defined a `MovementService` interface:
+
+```go
+type MovementService interface {
+    CreateMovement(ctx context.Context, m *Movement) (int, error)
+    GetMovementByID(ctx context.Context, id int) (*Movement, error)
+    GetMovementByName(ctx context.Context, name string) (*Movement, error)
+    GetAllMovements(ctx context.Context) ([]*Movement, error)
+    UpdateMovement(ctx context.Context, m *Movement) error
+    DeleteMovement(ctx context.Context, id int) error
+}
+```
+## 2025-05-28
+
+I just had a chance to revisit the project after a ~3 month hiatus, and I'm not convinced I liked the direction. So, I'm (once again) nuking it and starting over. This probably isn't the most efficient approach, but you know, whatever.
+
+To that end, I got a basic webserver up that can serve an index. Essentially a "hello, world" web server.
 ## 2025-03-04
 
 I didn't have that long to work today, but I spent some time fixing the API endpoint naming (see below). I also consolidated some logic associated with getting all of the muscles associated with a movement into a method (see `movementService.GetMovementMuscles())`, which reduced some duplication in the code. And I wrote a couple of other methods for getting movements from the sqlite database. 
