@@ -10,6 +10,13 @@ tags:
 ## Link to Github Repo
 [FlexCreek Github Repo](https://github.com/ekholme/flexcreek)
 
+## 2025-06-06
+
+I've been swamped lately, so I haven't had a ton of time to work. I spent some time today defining the other core structs that I'll use in this application, namely a `MovementInstance` and a `Workout`
+
+The general idea is that a workout a `Movement` is something like a squat, a `MovementInstance` is an instance of that movement (e.g. doing 5x5 squats at 225 on June 6), and a `Workout` is a collection of one or more `MovementInstances` on a given day (e.g. on June 6, I did 5x5 squats at 225 and a 30 minute run).
+
+I still need to define the service interfaces that implement methods on these types. I also still need to define the actual database structure, which will take some thought. That's probably the next step.
 ## 2025-05-29
 
 Only spent a little bit of time working today, but I redefined a movement struct. It's much simpler this time, because I think I want this to transition to a workout/performance tracking app rather than a workout recommender. So the signature is
