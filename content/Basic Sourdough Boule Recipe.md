@@ -7,7 +7,8 @@ tags:
   - sourdough
 ---
 ## Ingredients
-- 500g bread flour
+- 450g bread flour
+- 50g whole wheat flour
 - 350g lukewarm water (70%)
 - 100g starter (20%)
 - 10g salt
@@ -19,9 +20,9 @@ This assumes I'm baking on a weekday and need to work around my work schedule, b
 - Remove starter from fridge and feed
 
 ### Afternoon/Evening 1 (after work)
-- Make shaggy dough by loosely mixing flour, water, and starter together in large glass bowl
-- Fermentolyse for 30 minutes -- cover and let dough rest on counter for ~30 mins
-- Gently mix in salt. Knead for a few minutes.
+- Make shaggy dough by loosely mixing flour and water together in a large bowl
+- Autolyse for 30-60 minutes -- cover and let dough rest on counter
+- Mix in salt and starter. Knead for about 10 minutes minutes.
 - Transfer to lightly oiled (or floured) 2 quart plastic tub
 - For next ~5 hours, bulk ferment in tub. For the first ~2-3 hours, stretch and fold every 30 mins to build dough strength. Keep lid on tub when not actively working it
 - Preshape dough and let sit on counter for ~20-30 mins

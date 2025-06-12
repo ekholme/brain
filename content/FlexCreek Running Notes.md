@@ -10,6 +10,9 @@ tags:
 ## Link to Github Repo
 [FlexCreek Github Repo](https://github.com/ekholme/flexcreek)
 
+## 2025-06-12
+
+I had a little bit of time to work today, so I defined a `User` type, which I realized I hadn't done yet. I also started to define some of the database schema, but I didn't get that far. I definitely haven't defined all of the links between the tables yet.
 ## 2025-06-06
 
 I've been swamped lately, so I haven't had a ton of time to work. I spent some time today defining the other core structs that I'll use in this application, namely a `MovementInstance` and a `Workout`
