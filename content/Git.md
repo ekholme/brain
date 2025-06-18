@@ -19,7 +19,27 @@ Git (and Github) also enable continuous integration/continuous development (CI/C
 
 ![](https://gitbookdown.dallasdatascience.com/img/git_branch_merge.png)
 
+## Useful Commands
 
+### Branches
+
+Show current branch
+
+```bash
+git branch --show-current
+```
+
+Show all branches
+
+```bash
+git branch -a
+```
+
+Delete a branch
+
+```bash
+git branch -d branch_name
+```
 ## Readings
 
 - [Happy Git... by Jenny Bryan](https://happygitwithr.com/)
