@@ -40,6 +40,20 @@ Delete a branch
 ```bash
 git branch -d branch_name
 ```
+
+## Tags
+
+Git tags are a mechanism for denoting versions. We can specify a tag like so:
+
+```bash
+git tag -a v0.1.0 -m "Release v0.1.0: added XX features"
+```
+
+And we can then push these tags to Github
+
+```bash
+git push origin v0.1.0
+```
 ## Readings
 
 - [Happy Git... by Jenny Bryan](https://happygitwithr.com/)
