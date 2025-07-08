@@ -62,6 +62,14 @@ Perform with a heavy KB
 - 5-10 single arm thrusters
 - repeat on each side
 
+## Hal
+- 6 single arm swings
+- 6 single arm cleans
+- 6 single arm OHP
+- 6 single arm snatch
+- switch sides after each movement (i.e. performs swings on right, swings on left, cleans on right, cleans on left, etc)
+
+*To make this a workout, do a descending ladder 6-5-4-3-2-1, then ascend back to 6 reps*
 ## Swing-Snatch
 - 8 single-arm snatches (each side)
 - 12 goblet squats (elevate heels on squat wedge, ideally)
