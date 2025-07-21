@@ -10,6 +10,11 @@ tags:
 ## Link to Github Repo
 [FlexCreek Github Repo](https://github.com/ekholme/flexcreek)
 
+## 2025-07-21
+
+We're back after an extended hiatus. Today I finished (hopefully) defining the database schema, then I wrote all of the methods for the `userService`. I also had Gemini write test cases for the sqlite userService.
+
+The next step is probably to write out all of the methods for the movementService.
 ## 2025-06-12
 
 I had a little bit of time to work today, so I defined a `User` type, which I realized I hadn't done yet. I also started to define some of the database schema, but I didn't get that far. I definitely haven't defined all of the links between the tables yet.
