@@ -11,18 +11,31 @@ tags:
 
 To create a new project:
 
-1. Create a `pyproject.toml` file in the project root. Add something like the following to it:
+1. Create the directory for the project, navigate there, and initialize the project with `uv init`, e.g.:
 
-```toml
-[project]
-name = "my-project"
-version = "0.1.0"
-requires-python = ">=3.11"
+```bash
+mkdir my-project
+cd my-project
+uv init
 ```
 
-2. Create a virtual environment via: `uv venv`
+2. `uv` will automatically create a `venv` and a `uv.lock` file when we run a `uv` command now, so run something like `uv run main.py` to create the venv. 
 3. Activate the virtual environment (in Windows, this is via something like `.venv\Scripts\Activate.ps1`)
 
 Then, install packages as appropriate, via:
 `uv add package-name`, e.g. `uv add polars`
+
+## Versions
+
+`uv` also provides [tooling for versioning](https://docs.astral.sh/uv/guides/package/#updating-your-version)
+
+You can check the version of your project with `uv version`
+
+And you can bump versions with:
+
+```bash
+uv version --bump minor
+```
+
+where we can use `major`, `minor`, `patch`, etc. to update the version
 
