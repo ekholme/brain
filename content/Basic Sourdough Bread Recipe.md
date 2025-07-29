@@ -6,12 +6,13 @@ tags:
   - baking
   - sourdough
 ---
+This is my basic sourdough bread recipe.
 ## Ingredients
-- 450g bread flour
-- 50g whole wheat flour
+- 425g King Arthur bread flour
+- 75g King Arthur whole wheat flour
 - 350g lukewarm water (70%)
 - 100g starter (20%)
-- 10g salt
+- 10g salt (2%)
 
 ## Process
 This assumes I'm baking on a weekday and need to work around my work schedule, but the principle still holds
@@ -24,17 +25,16 @@ This assumes I'm baking on a weekday and need to work around my work schedule, b
 - Autolyse for 30-60 minutes -- cover and let dough rest on counter
 - Mix in salt and starter. Knead for about 10 minutes minutes.
 - Transfer to lightly oiled (or floured) 2 quart plastic tub
-- For next ~5 hours, bulk ferment in tub. For the first ~2-3 hours, stretch and fold every 30 mins to build dough strength. Keep lid on tub when not actively working it
+- For next 5-8 hours, bulk ferment in tub. For the first ~2-3 hours, stretch and fold every 30 mins to build dough strength. Keep lid on tub when not actively working it. The bulk ferment is finished once the dough has increased in volume by at least 50%. *Note: if the bulk ferment is taking a long time and it's getting too late, it's possible to switch to a cold ferment and place the plastic tub in the fridge overnight. If this is the case, do the remaining steps the following morning*
 - Preshape dough and let sit on counter for ~20-30 mins
 - Shape and transfer to a lightly floured banneton.
-- Cold proof in fridge until ready to bake. Usually this is the next afternoon for me, but it can be kept in the fridge for up to 3 days
+- Cold proof in fridge for 12-24 hours.
 ### Afternoon/Evening 2 (after work)
 - Preheat oven with dutch oven inside at 450 for at least 30 mins
-- Just before baking, remove banneton from fridge.
-- Gently shape into a boule (if it doesn't come out of banneton well-shaped)
-- Spray shaped dough with lukewarm water
+- Just before baking, remove banneton from fridge. Remove dough from banneton by inverting onto a baking sling 
 - Score dough
-- Put dough on baking sling, and place baking sling in the hot dutch oven
-- Bake covered for 30 mins
+- Place baking sling in the hot dutch oven
+- Add 2-3 cubes of ice into dutch oven and immediately close the lid
+- Bake covered for 25 mins
 - Remove lid from dutch oven and bake for another 20 mins
 - Let cool on wire rack for at least 1 hour

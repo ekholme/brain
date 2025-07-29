@@ -20,7 +20,7 @@ tags:
 Follow the same general process for the [[Basic Sourdough Boule Recipe]], except with the following tweaks:
 
 1. Just before starting to mix the dough, put the raisins in a bowl of water. This will hydrate them slightly and ensure they don't absorb too much water from the dough itself. This hydration process should last for at least 30 mins.
-2. After the fermentolyse phase and the salt is added, spread the dough out into a large rectangle on a flat surface.
+2. After the starter and the salt are added, spread the dough out into a large rectangle on a flat surface.
 3. Coat the top of the rectangle in a layer of cinnamon and an even-ish layer of raisins, then fold over a few times and shape into another large rectangle. Repeat the layering of cinnamon/raisins and subsequent folding until you've used all of your cinnamon and raisins.
 4. From this point, follow the basic sourdough boule recipe.
 

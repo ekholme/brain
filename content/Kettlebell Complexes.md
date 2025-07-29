@@ -73,3 +73,12 @@ Perform with a heavy KB
 ## Swing-Snatch
 - 8 single-arm snatches (each side)
 - 12 goblet squats (elevate heels on squat wedge, ideally)
+
+## Trevor Flow
+*do this with a single heavy KB*
+- clean & press (RH)
+- clean & press (LH)
+- clean to B-stance front rack squat (RH)
+- clean to B-stance front rack squat (LH)
+
+*to make this a full workout, do AMRAP style, with a short break every 3ish rounds*
