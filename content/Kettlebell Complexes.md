@@ -78,7 +78,7 @@ Perform with a heavy KB
 *do this with a single heavy KB*
 - clean & press (RH)
 - clean & press (LH)
-- clean to B-stance front rack squat (RH)
-- clean to B-stance front rack squat (LH)
+- clean to B-stance 3 reps front rack squat (RH)
+- clean to B-stance 3 reps front rack squat (LH)
 
 *to make this a full workout, do AMRAP style, with a short break every 3ish rounds*

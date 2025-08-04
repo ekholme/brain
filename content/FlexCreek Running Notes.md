@@ -10,6 +10,13 @@ tags:
 ## Link to Github Repo
 [FlexCreek Github Repo](https://github.com/ekholme/flexcreek)
 
+
+## 2025-07-31
+
+I took some suggestions from Gemini for re-architecting my entities/models today, and Gemini also rewrote a bunch of code, which I accepted kind of accidentally. Next time I work, I need to review all of the logic in my types, interfaces, and database tables to ensure everything is what it should be.
+## 2025-07-30
+
+Fiddled a bit today. I need to update my `MovementInstance` struct to align with the DB table. I also want to rethink my `movement_instances` table (and the corresponding struct) to remove the constraint that all sets have the same number of reps. I'll need to make a `set` struct that has something like `weight` and `reps` fields.
 ## 2025-07-21
 
 We're back after an extended hiatus. Today I finished (hopefully) defining the database schema, then I wrote all of the methods for the `userService`. I also had Gemini write test cases for the sqlite userService.
