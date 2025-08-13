@@ -10,7 +10,12 @@ tags:
 ## Link to Github Repo
 [FlexCreek Github Repo](https://github.com/ekholme/flexcreek)
 
+## 2025-08-07
 
+I only had a few minutes to work on this today, but I wrote a few methods for the `movementService`. Next, I need to write the `update` and `delete` methods, then I probably want to write some handlers. I've written a fair amount of code, but beyond doing some unit tests, I haven't actually spun up the application in any real way (because I don't have handlers).
+## 2025-08-04
+
+I checked over the database schema and my entities, and I think they make sense. I also started to implement the `movementService` for interacting with the database. I need to continue to do this moving forward.
 ## 2025-07-31
 
 I took some suggestions from Gemini for re-architecting my entities/models today, and Gemini also rewrote a bunch of code, which I accepted kind of accidentally. Next time I work, I need to review all of the logic in my types, interfaces, and database tables to ensure everything is what it should be.
