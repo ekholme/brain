@@ -10,6 +10,9 @@ tags:
 ## Link to Github Repo
 [FlexCreek Github Repo](https://github.com/ekholme/flexcreek)
 
+## 2025-08-19
+
+I made a bunch of changes to the files in `sqlite` using Gemini. I need to go back and check that 1) they work and 2) I actually understand what's happening. This should entail some code review & writing, but also writing out some notes (maybe in brain) to make sure I understand the logic.
 ## 2025-08-07
 
 I only had a few minutes to work on this today, but I wrote a few methods for the `movementService`. Next, I need to write the `update` and `delete` methods, then I probably want to write some handlers. I've written a fair amount of code, but beyond doing some unit tests, I haven't actually spun up the application in any real way (because I don't have handlers).
