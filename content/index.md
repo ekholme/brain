@@ -8,17 +8,21 @@ Probably the best way to navigate is to just search for content, but here are a 
 
 ## AI
 - [[Google Gen AI Course]]: contains links to notes central to AI and LLMs
-
+## Baking
+- [[Basic Sourdough Bread Recipe]]
+- [[Lemon Blueberry Sourdough Loaf]]
+- [[Toll House Bars]]
 ## Fitness
--  [[Kettlebell Complexes]]
+- [[Kettlebell Complexes]]
 - [[Armor Building Formula]]
-
-## Stats
+## Stats/ML
 - [[Maximum Likelihood Estimation]]
 - [[Gradient Descent]]
-- [[Bayesian statistics]]
-
-## Technology
+- [[Loss Functions]]
+- [[Splines]]
+- [[Machine Learning Model Building]]
+## Technology/Coding
 - [[FlexCreek Running Notes]]
-- [[Python Package Development]]
+- [[Go Interfaces]]
 - [[Julia Packages and Environments]]
+- [[Python main function]]
