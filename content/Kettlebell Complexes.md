@@ -55,6 +55,7 @@ Perform with a heavy KB
 - 8 swings
 - 8 high pulls
 - 8 offset squats (4/side)
+*To make a workout, do 5-8 sets. If using a heavier weight, drop to 6 reps/movement*
 
 ## Doug
 - 5-10 single arm rows
@@ -82,3 +83,9 @@ Perform with a heavy KB
 - clean to B-stance 3 reps front rack squat (LH)
 
 *to make this a full workout, do AMRAP style, with a short break every 3ish rounds*
+
+## Zeus
+*perform with double kbs*
+- 6 rows
+- 5 cleans
+- 4 front squats
