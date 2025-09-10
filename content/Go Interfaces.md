@@ -157,4 +157,37 @@ func (bs BarService) CreateBar(b *Bar) {
 
 ## Interface Composition
 
-ADD THIS
+Another cool feature is the ability to compose interfaces. This lets us make a new, complex interface by embedding multiple smaller interfaces within it. The prototypical example of this in Go is the [ReadWriter](https://pkg.go.dev/io#ReadWriter) interface from the `io` package, which is composed of the `Reader` interface and the `Writer` interface.
+
+### Example
+
+Imagine we have a program that defines data models for `Users` and `Items`. We might want to develop interfaces to store users and items in a database. We might then define `UserStorer` and `ItemStorer` interfaces, e.g.:
+
+```go
+
+type User struct {
+	Name string
+}
+type Item struct{
+	Name string
+}
+
+type UserStorer interface {
+	AddUser(db *sql.DB, u *User)
+}
+
+type ItemStorer interface {
+	AddItem(db *sql.DB, item *Item)
+}
+```
+
+We could take these two interfaces and make a more generic `Storer` interface:
+
+```go
+type Storer interface {
+	UserStorer
+	ItemStorer
+}
+```
+
+One of the benefits of this is that it is modular and flexible -- we can easily add another component within the `Storer` interface if we need to (e.g. a `LogStorer`) while still maintaining a small surface area of methods on each individual component.
