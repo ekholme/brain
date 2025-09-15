@@ -25,6 +25,9 @@ uv init
 Then, install packages as appropriate, via:
 `uv add package-name`, e.g. `uv add polars`
 
+We can install local packages with something like:
+`uv pip install path/to/my/package`
+
 ## Versions
 
 `uv` also provides [tooling for versioning](https://docs.astral.sh/uv/guides/package/#updating-your-version)
@@ -38,4 +41,5 @@ uv version --bump minor
 ```
 
 where we can use `major`, `minor`, `patch`, etc. to update the version
+
 
