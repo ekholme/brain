@@ -8,11 +8,11 @@ tags:
 ---
 This is my basic sourdough bread recipe.
 ## Ingredients
-- 425g King Arthur bread flour
+- 375g King Arthur bread flour
 - 75g King Arthur whole wheat flour
-- 350g lukewarm water (70%)
-- 100g starter (20%)
-- 10g salt (2%)
+- 320-330g lukewarm water (70-73%)
+- 90g starter (20%)
+- 9g salt (2%)
 
 ## Process
 This assumes I'm baking on a weekday and need to work around my work schedule, but the principle still holds
@@ -36,5 +36,5 @@ This assumes I'm baking on a weekday and need to work around my work schedule, b
 - Place baking sling in the hot dutch oven
 - Add 2-3 cubes of ice into dutch oven and immediately close the lid
 - Bake covered for 25 mins
-- Remove lid from dutch oven and bake for another 20 mins
+- Remove lid from dutch oven and bake for another 20+ mins until the crust is the desired color
 - Let cool on wire rack for at least 1 hour

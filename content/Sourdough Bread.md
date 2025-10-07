@@ -23,7 +23,9 @@ Assuming we already have a ripe (fed) starter, the general steps for making a "p
 10. **Let Cool**: remove from the oven and allow the bread to cool for about an hour before slicing.
 
 ## Recipes
-- [[Basic Sourdough Boule Recipe]]
+- [[Basic Sourdough Bread Recipe]]
+- [[Lemon Blueberry Sourdough Loaf]]
+- [[Cinnamon Raisin Sourdough Boule]]
 
 ## Resources
 
