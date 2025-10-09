@@ -23,32 +23,32 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Inter",
+        body: "Inter",
+        code: "Fira Code",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#f8f8f2", // background
+          lightgray: "#e0e0e0", // borders
+          gray: "#6272a4", // graph links, heavier borders
+          darkgray: "#44475a", // body text
+          dark: "#282a36", // header text and icons
+          secondary: "#ff79c9", // link color
+          tertiary: "#bd93f9", // hover states
+          highlight: "rgba(255, 121, 199, 0.15)", // internal link background
+          textHighlight: "#f1fa8c88",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#282a36", // background
+          lightgray: "#44475a", // borders
+          gray: "#6272a4", // graph links, heavier borders
+          darkgray: "#f8f8f2", // body text
+          dark: "#f8f8f2", // header text and icons
+          secondary: "#bd93f9", // link color, current graph node
+          tertiary: "#8be9fd", // hover states and visited graph nodes
+          highlight: "rgba(189, 147, 249, 0.15)", // internal link background
+          textHighlight: "#f1fa8c88",
         },
       },
     },
@@ -60,11 +60,11 @@ const config: QuartzConfig = {
         priority: ["frontmatter", "filesystem"],
       }),
       Plugin.SyntaxHighlighting({
+        // uses themes bundled with Shikiji
         theme: {
-          light: "github-light",
-          dark: "github-dark",
+          light: "dracula",
+          dark: "dracula",
         },
-        keepBackground: false,
       }),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
