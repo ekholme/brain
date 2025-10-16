@@ -91,16 +91,7 @@ One way this can work is via locality-sensitive hashing (LSH), which creates a h
 There are lots of different approaches to ANN. Another is Google's [ScaNN algorithm](https://research.google/blog/announcing-scann-efficient-vector-similarity-search/).
 ## Vector Databases
 
-Vector databases are tools that combine the semantic meaning of vector embeddings with the efficient querying of vector search algorithms. Generally, these work as follows:
-
-1. An embedding model (e.g. BERT) is used to embed data as vectors with fixed dimensions (e.g. in BERT's case, 768)
-2. The vectors are augmented with appropriate metadata and tags to allow for efficient search
-3. An incoming query is embedded using the same model, then the database conducts a search to find the most similar entries. Tags and metadata can help pre-filter some of the results (where appropriate).
-
-There are lots of vector database options, including:
-- [ChromaDB](https://www.trychroma.com/)
-- [pgvector](https://github.com/pgvector/pgvector) -- a vector extension for [[Postgres]]
-- [Vector Search](https://cloud.google.com/vertex-ai/docs/vector-search/), Google's proprietary vector db
+See the [[Vector Databases]] note.
 ## Evaluating Embeddings
 
 One common framework for evaluating the quality of embeddings is to assess their ability to retrieve similar items while excluding items that are not similar. These metrics are *precision* (all documents retrieved should be relevant) and *recall* (all relevant documents should be retrieved).
