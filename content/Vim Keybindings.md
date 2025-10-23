@@ -7,6 +7,14 @@ tags:
 ---
 This is  a non-comprehensive list of Vim keybindings.
 
+## Open a File (from normal mode)
+
+`:edit file_name`, e.g. `:edit funcs.py`
+
+## Close a File (from normal mode)
+
+`:q`
+
 ## Search and Jump Between Matches
 
 Start a search while in Normal Mode by using `/pattern`, then pressing `Enter`.
