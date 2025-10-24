@@ -15,11 +15,24 @@ This is  a non-comprehensive list of Vim keybindings.
 
 `:q`
 
+
+## Save a file
+
+To save a file, use `:w` in normal mode.
+
+To save and quit, use `:wq`
+
+To save the current file as "my_new_file.txt": `:w my_new_file.txt`
+
 ## Search and Jump Between Matches
 
 Start a search while in Normal Mode by using `/pattern`, then pressing `Enter`.
 
 Jump between matches with `n` (next) or `N` (previous)
+
+## Jump to a Line Number
+
+Type `:LINE_NUMBER` and hit enter, e.g. `:70` to go to line 70
 ## Find and Replace
 
 To find a replace all instances of a pattern in a file:
