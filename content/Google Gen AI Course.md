@@ -7,9 +7,12 @@ tags:
   - ai
   - google
 ---
-This is a hub for notes and codelabs/notebooks associated with Google's 5 Day Intensive Generative AI Course.
+This is a hub for notes and codelabs/notebooks associated with Google's 5 Day Intensive Generative AI Courses.
 
-## Notes
+## Fall 2025 Course Notes
+
+
+## Spring 2025 Course Notes
 
 - [[Google Gemini]]: Introduction and snippets to the Gemini developer API via the Python SDK
 - [[Foundational LLMs and Text Generation]]
