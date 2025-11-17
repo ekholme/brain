@@ -11,7 +11,24 @@ This is a hub for notes and codelabs/notebooks associated with Google's 5 Day In
 
 ## Fall 2025 Course Notes
 
+This course was on [[AI Agents]]. Some of the topics covered in the course include:
 
+- [[Tools (AI Agents)]]
+- [[Multi-Agent AI Systems]]
+- [[Model Context Protocol (MCP)]]
+- [[Google Agent Developer Kit]]
+- [[Custom AI Agent Tools]]
+- [[Context Engineering]]
+- [[Agent Session Management with ADK]]
+- [[Agent Memory with ADK]]
+
+### Whitepapers
+
+- [Introduction to Agents](https://drive.google.com/file/d/1C-HvqgxM7dj4G2kCQLnuMXi1fTpXRdpx/view)
+- [Agent Tools and Interoperability with MCP](https://drive.google.com/file/d/1ENMUDzybOzxnycQQxNh5sE9quRd0s3Sd/view)
+- [Context Engineering: Sessions & Memory](https://drive.google.com/file/d/1JW6Q_wwvBjMz9xzOtTldFfPiF7BrdEeQ/view)
+- [Agent Quality](https://drive.google.com/file/d/1EnTSGztSrjooYMLaDe8EnoATfsSoe3xv/view)
+- [Prototype to Production](https://drive.google.com/file/d/1s00Cr_C8LXtrsGrlRG4WUJx4GmAtdzrQ/view)
 ## Spring 2025 Course Notes
 
 - [[Google Gemini]]: Introduction and snippets to the Gemini developer API via the Python SDK
@@ -23,7 +40,7 @@ This is a hub for notes and codelabs/notebooks associated with Google's 5 Day In
 - [[Fine Tuning LLMs]]
 - [[MLOps]]
 
-## Code Labs & Kaggle Notebooks
+### Code Labs & Kaggle Notebooks
 
 - [Day 1 - Prompting](https://www.kaggle.com/code/ekholme/day-1-prompting/edit)
 - [Day 1 - Evaluation and Structured Output](https://www.kaggle.com/code/ekholme/day-1-evaluation-and-structured-output/edit)
@@ -35,7 +52,7 @@ This is a hub for notes and codelabs/notebooks associated with Google's 5 Day In
 - [Day 4 - Fine Tuning a Custom Model](https://www.kaggle.com/code/ekholme/day-4-fine-tuning-a-custom-model/edit)
 - [Day 4 - Google Search Grounding with the Gemini API](https://www.kaggle.com/code/ekholme/day-4-google-search-grounding/edit). Grounding is a framework that gives the model access to Google Search (in this case) to confirm answers.
 
-## Whitepapers
+### Whitepapers
 
 - [Foundational LLMs and Text Generation](https://drive.google.com/file/d/1rYu-mIcsTrAeCuH-xHPofrI1i1qNVzqO/view)
 - [Prompt Engineering](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
@@ -44,7 +61,7 @@ This is a hub for notes and codelabs/notebooks associated with Google's 5 Day In
 - [Solving Domain-Specific Problems Using LLMs](https://drive.google.com/file/d/17oA0s8yh8xNZ5ZKiM7cR3lPFlRO-P02a/view)
 - [Operationalizing Generative AI on Vertex AI](https://drive.google.com/file/d/1di0wyazJkwLA4VbXoBDqxveaJOwFmdJF/view)
 
-## Videos
+### Videos
 
 - [Link to podcast playlist](https://www.youtube.com/playlist?list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE)
 - [Link to livestream playlist](https://www.youtube.com/playlist?list=PLqFaTIg4myu-lbBTrUpoQQIzZZxvrOaP5)
