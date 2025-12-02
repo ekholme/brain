@@ -3,7 +3,7 @@ import * as Component from "./quartz/components"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
-  head: Component.Head(),
+  head: Component.Head({ css: ["quartz/styles/nord.scss"] }),
   header: [],
   afterBody: [],
   footer: Component.Footer({
