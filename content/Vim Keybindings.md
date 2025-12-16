@@ -48,11 +48,3 @@ To indent multiple lines at once, highlight all of the desired lines, then use `
 ## Moving Between Panes
 
 To move between panes, we can use `Ctrl + w + h` to move left or `Ctrl + w + l` to move right
-
-## Jumping to the File Explorer
-
-In Lazyvim, if we just want to jump to the file explorer, we can use `<leader>e`, which will toggle and jump to the file explorer. *Note that the default binding for leader is Space*
-
-## Jumping Between Files
-
-In Lazyvim, we can open the file explorer with  `Space-Space`.
