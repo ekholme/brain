@@ -15,7 +15,6 @@ This is  a non-comprehensive list of Vim keybindings.
 
 `:q`
 
-
 ## Save a file
 
 To save a file, use `:w` in normal mode.
@@ -48,3 +47,12 @@ To indent multiple lines at once, highlight all of the desired lines, then use `
 ## Moving Between Panes
 
 To move between panes, we can use `Ctrl + w + h` to move left or `Ctrl + w + l` to move right
+
+## Deleting
+
+`dd` will delete a line. `u` will undo the last action (similar to `Ctrl+Z`)
+
+We can delete the current line and the 2 below it (3 total) with `d3j` (delete 3 down).
+
+We can delete a single word with `dw`.
+
