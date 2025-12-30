@@ -38,6 +38,7 @@ Debian is one of the oldest Linux distros, and it serves as the foundation for m
 One of the tradeoffs for this stability is that it takes a long time to get the newest versions of apps/packages onto Debian -- sometimes months or even years.
 
 ### Arch
+*see also [[Arch Linux]]*
 
 Arch is a "DIY" operating system. It provides a bare minimum system by default and asks users to install additional packages as they need them.
 
