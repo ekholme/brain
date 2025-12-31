@@ -71,19 +71,17 @@ Perform with a heavy KB
 - switch sides after each movement (i.e. performs swings on right, swings on left, cleans on right, cleans on left, etc)
 
 *To make this a workout, do a descending ladder 6-5-4-3-2-1, then ascend back to 6 reps*
+## Orin
+*do this with a single heavy KB*
+- clean & press (RH)
+- 2 front-rack lunges (RH)
+- clean & press (LH)
+- 2 front-rack lunges (LH)
+*to make this a full workout, do AMRAP style with rest as needed*
+
 ## Swing-Snatch
 - 8 single-arm snatches (each side)
 - 12 goblet squats (elevate heels on squat wedge, ideally)
-
-## Trevor Flow
-*do this with a single heavy KB*
-- clean & press (RH)
-- clean & press (LH)
-- clean to B-stance 3 reps front rack squat (RH)
-- clean to B-stance 3 reps front rack squat (LH)
-
-*to make this a full workout, do AMRAP style, with a short break every 3ish rounds*
-
 ## Zeus
 *perform with double kbs*
 - 6 rows
