@@ -7,11 +7,13 @@ tags:
   - kettlebells
   - lifting
 ---
-*Updated 2025-12-31*
+*Updated 2026-01-12*
 
 **Monday**
-AMRAP 20-30 of [[Kettlebell Complexes#Orin|Orin KB Complex]].
-
+- Bulgarian split squats
+- Superset of pushups/pullups
+- Sauna
+ 
 **Tuesday**
 Moderate cardio. 20-35 minutes total.
 
