@@ -11,3 +11,4 @@ A [loss function](https://en.wikipedia.org/wiki/Loss_function) is a mathematical
 
 Some examples of loss functions include:
 - [[Binary Cross Entropy]] for binary outcomes
+- [[Mean Squared Error]] for numeric outcomes
