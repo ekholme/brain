@@ -3,10 +3,9 @@ title: Bootstrapping
 draft: false
 date: 2024-11-15
 tags:
-  - stats
-  - algorithms
-  - julia
-  - resampling
+  - stats/resampling
+  - stats/algorithms
+  - programming/julia
 ---
  
 ## What is Bootstrapping

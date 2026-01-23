@@ -3,8 +3,7 @@ title: Google Compute Engine
 draft: false
 date: 2025-05-27
 tags:
-  - gcp
-  - google
+  - cloud/gcp
 ---
 [Google Compute Engine (GCE)](https://cloud.google.com/products/compute) is a service from [[Google Cloud (GCP)]] that allows users to create and run virtual machines (VMs) on Google Cloud. GCE is essentially an Infrastructure as a Service (IaaS) product.
 

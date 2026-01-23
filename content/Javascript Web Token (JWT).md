@@ -3,8 +3,8 @@ title: Javascript Web Token (JWT)
 draft: false
 date: 2025-10-10
 tags:
-  - web_dev
-  - auth
+  - programming/web_development
+  - web_development/authentication
 ---
 A [Javascript web token (JWT)](https://www.jwt.io/introduction#what-is-json-web-token) is a compact and secure way to communicate information between two parties -- often two different web services. One feature of JWTs is that they are *signed*, which means we can trust their content & trust that the sender of the JWT is who they claim to be.
 

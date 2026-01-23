@@ -3,8 +3,7 @@ title: Blueberry Lemon Bundt Cake
 draft: false
 date: 2025-07-08
 tags:
-  - baking
-  - cake
+  - baking/cake
 ---
 ## Ingredients
 - 300g blueberries + 1 tbsp all-purpose flour

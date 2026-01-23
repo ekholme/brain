@@ -3,9 +3,8 @@ title: Model Context Protocol (MCP)
 draft: false
 date: 2025-11-11
 tags:
-  - ai
-  - 5dgai
-  - agents
+  - ai/5dgai
+  - ai/agents
 ---
 Model Context Protocol (MCP) is a framework/set of standards meant to serve as a universal interface between AI applications and external tools. This allows us to decouple agents from the tools they use, allowing for the ecosystem to be more modular and scalable.
 

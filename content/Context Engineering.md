@@ -3,9 +3,8 @@ title: Context Engineering
 draft: false
 date: 2025-11-12
 tags:
-  - 5dgai
-  - ai
-  - agents
+  - ai/5dgai
+  - ai/agents
 ---
 Context engineering is about dynamically managing the information in an LLM's context window, ensuring it has the most relevant information for the task it's performing.
 

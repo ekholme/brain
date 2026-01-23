@@ -3,9 +3,8 @@ title: Fine Tuning LLMs
 draft: false
 date: 2025-04-03
 tags:
-  - 5dgai
-  - ai
-  - llms
+  - ai/5dgai
+  - ai/agents
 ---
 Fine-tuning an LLM involves taking an existing, pre-trained model and doing some light retraining/tuning of the parameters so that the model performs better at a given, specific task.
 

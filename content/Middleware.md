@@ -3,8 +3,7 @@ title: Middleware
 draft: false
 date: 2025-05-05
 tags:
-  - go
-  - web_dev
+  - web_development/middleware
 ---
 In a web server, a middleware is a function that sits between the incoming request and the final handler function. It takes the incoming request and performs some action on it before passing it along to the final handler function.
 

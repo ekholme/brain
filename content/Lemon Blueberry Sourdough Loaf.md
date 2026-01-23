@@ -3,9 +3,7 @@ title: Lemon Blueberry Sourdough Loaf
 draft: false
 date: 2025-08-21
 tags:
-  - sourdough
-  - baking
-  - bread
+  - baking/sourdough
 ---
 ## Ingredients
 - 450g King Arthur Bread Flour

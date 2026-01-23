@@ -3,8 +3,7 @@ title: Install Software in Linux
 draft: false
 date: 2025-02-25
 tags:
-  - linux
-  - shell
+  - linux/shell
 ---
 This is a generic guide for how to download and install something in Linux.
 ## Using apt

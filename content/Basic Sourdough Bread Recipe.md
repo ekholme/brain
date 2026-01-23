@@ -3,8 +3,7 @@ title: Basic Sourdough Boule Recipe
 draft: false
 date: 2025-05-05
 tags:
-  - baking
-  - sourdough
+  - baking/sourdough
 ---
 This is my basic sourdough bread recipe.
 ## Ingredients

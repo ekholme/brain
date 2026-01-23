@@ -3,9 +3,8 @@ title: Agent Session Management with ADK
 draft: false
 date: 2025-11-12
 tags:
-  - ai
-  - 5dgai
-  - agents
+  - ai/5dgai
+  - ai/agents
 ---
 This note contains an example of how to manage [[Context Engineering#Sessions|sessions]] with [[Google Agent Developer Kit]] (ADK) in [[Python]]. It pulls heavily from [this Kaggle notebook](https://www.kaggle.com/code/ekholme/day-3a-agent-sessions/edit)
 

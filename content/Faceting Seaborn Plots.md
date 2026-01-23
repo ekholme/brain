@@ -3,9 +3,8 @@ title: Faceting Seaborn Plots
 draft: false
 date: 2025-03-17
 tags:
-  - python
-  - seaborn
-  - data_viz
+  - programming/python
+  - data_science/data_viz
 ---
 Faceting plots in [Seaborn](https://seaborn.pydata.org/) works slightly different than it does in ggplot. First, you have to instantiate a grid, then you map plots to this grid. In this way, it works kinda like [Makie.jl](https://docs.makie.org/v0.22/) does.
 

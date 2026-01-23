@@ -3,10 +3,8 @@ title: AI Agents
 draft: false
 date: 2025-04-02
 tags:
-  - 5dgai
-  - ai
-  - llms
-  - agents
+  - ai/5dgai
+  - ai/agents
 ---
 *See also Google's [[Google Agent Developer Kit|Agent Developer Kit (ADK)]]* for tools to build agents.
 ## What is an AI Agent?

@@ -3,7 +3,7 @@ title: Dry Fighting Weight
 draft: false
 date: 2025-10-29
 tags:
-  - kettlebells
+  - fitness/kettlebells
 ---
 [Dry Fighting Weight](https://www.strongfirst.com/dry-fighting-weight/) (DFW) is a fairly minimalistic kettlebell program centered around 2 exercises:
 

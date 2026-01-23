@@ -3,9 +3,8 @@ title: Loop Agents (AI)
 draft: false
 date: 2025-11-17
 tags:
-  - 5dgai
-  - ai
-  - agents
+  - ai/5dgai
+  - ai/agents
 ---
 One problem with the [[Sequential Agents (AI)|sequential agent]] and [[Parallel Agents (AI)|parallel agent]] approaches is that all of the components are "one-shot" -- they run once and finish. There's no way to go back and refine the output of each step if it's not good enough.
 

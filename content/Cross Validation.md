@@ -3,9 +3,8 @@ title: Cross Validation
 draft: false
 date: 2025-02-25
 tags:
-  - stats
-  - model_assessment
-  - resampling
+  - stats/resampling
+  - stats/model_assessment
 ---
 *Note: much of this is notes from my reading of [ISLR](https://www.statlearning.com/)*
 

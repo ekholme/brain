@@ -3,9 +3,7 @@ title: Binary Cross Entropy
 draft: false
 date: 2025-08-13
 tags:
-  - stats
-  - machine_learning
-  - loss_function
+  - stats/loss_function
 ---
 Binary cross entropy (BCE; aka log-loss) is a [[Loss Functions|loss function]] associated with binary classification problems. The formula for BCE is:
 $$

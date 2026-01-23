@@ -3,8 +3,7 @@ title: Mean Squared Error (MSE)
 draft: false
 date: 2026-01-14
 tags:
-  - loss_function
-  - stats
+  - stats/loss_function
 ---
 [Mean Squared Error (MSE)](https://en.wikipedia.org/wiki/Mean_squared_error) is one of the most common [[Loss Functions|loss functions]] for numerical problems. It represents the average (squared) error in a regression problem, where the error is the distance from the actual value $y_i$ to the predicted value $\hat{y}_i$.
 

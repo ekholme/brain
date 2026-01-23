@@ -3,9 +3,9 @@ title: Custom AI Agent Tools
 draft: false
 date: 2025-11-11
 tags:
-  - ai
-  - 5dgai
-  - agents
+  - ai/5dgai
+  - ai/agents
+  - programming/gcp
 ---
 The [[Google Agent Developer Kit]] (ADK) provides some built-in [[Tools (AI Agents)|tools]] that can be used in [[AI Agents]], but we might also want to build custom tools. For instance, we might want tools that have access to private data or that can perform actions not specified in existing tools.
 

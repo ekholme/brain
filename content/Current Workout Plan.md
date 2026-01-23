@@ -3,9 +3,7 @@ title: Current Workout Plan
 draft: false
 date: 2025-12-31
 tags:
-  - fitness
-  - kettlebells
-  - lifting
+  - fitness/kettlebells
 ---
 *Updated 2026-01-12*
 

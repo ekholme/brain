@@ -3,8 +3,7 @@ title: K Nearest Neighbors
 draft: false
 date: 2025-01-23
 tags:
-  - stats
-  - algorithms
+  - stats/algorithms
 ---
 The [K Nearest Neighbors algorithm](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) is a non-parametric algorithm used in regression and classification models.
 

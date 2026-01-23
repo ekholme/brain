@@ -3,8 +3,7 @@ title: LaTeX
 draft: false
 date: 2025-04-16
 tags:
-  - latex
-  - math
+  - latex/math
 ---
 [LaTeX](https://www.latex-project.org/) is a typesetting system that excels at producing technical documents, including mathematical formulas, scientific notation, and structured content. Unlike something like Microsoft Word or Google Docs, LaTeX de-couples the design of the document from the content. Designs are created separately, and LaTeX documents are written in plain-text/markup commands that can be styled after the fact.
 

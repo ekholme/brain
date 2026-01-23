@@ -3,10 +3,8 @@ title: Google Gemini
 draft: false
 date: 2025-03-31
 tags:
-  - ai
-  - 5dgai
-  - google
-  - llms
+  - ai/5dgai
+  - ai/llms
 ---
 [Google Gemini](https://deepmind.google/technologies/gemini/) is a foundational, general-purpose LLM. It is essentially the model that powers many of the AI services in [[Vertex AI]] and other Google products.
 ## Python API

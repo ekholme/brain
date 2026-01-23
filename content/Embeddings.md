@@ -3,10 +3,9 @@ title: Embeddings
 draft: false
 date: 2025-04-01
 tags:
-  - ai
-  - 5dgai
-  - llms
-  - embeddings
+  - ai/5dgai
+  - ai/agents
+  - machine_learning/embeddings
 ---
 *These notes are largely taken from [this whitepaper](https://drive.google.com/file/d/12AI7lRBc8DQvqMGmit3mcgL3rsZwkEID/view), which is from the [[Google Gen AI Course]]*
 ## What Are Embeddings?

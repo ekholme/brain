@@ -3,7 +3,7 @@ title: Go Interfaces
 draft: false
 date: 2025-08-26
 tags:
-  - go
+  - programming/go
 ---
 In [[Go]], interfaces define a set of method signatures. Interfaces are types themselves, but they are used to define what other types (such as structs) can do.
 

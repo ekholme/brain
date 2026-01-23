@@ -3,10 +3,10 @@ title: Google Agent Developer Kit (ADK)
 draft: false
 date: 2025-11-10
 tags:
-  - 5dgai
-  - ai
-  - python
-  - go
+  - ai/5dgai
+  - ai/agents
+  - programming/go
+  - programming/python
 ---
  
 Google's [Agent Developer Kit](https://google.github.io/adk-docs/#) is a flexible and modular framework for developing and deploying agents using [[Python]], [[Go]], and Java.

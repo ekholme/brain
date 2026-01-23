@@ -3,8 +3,7 @@ title: Julia
 draft: false
 date: 2024-11-15
 tags:
-  - julia
-  - programming_language
+  - programming/julia
 ---
 [Julia](https://julialang.org/) is a high-performance programming language designed for math and scientific computing. It's a general purpose language and can do lots of different things, but it's mostly used for big math stuff.
 

@@ -3,10 +3,9 @@ title: MLOps
 draft: false
 date: 2025-04-04
 tags:
-  - ai
-  - mlops
-  - machine_learning
-  - 5dgai
+  - machine_learning/mlops
+  - programming/devops
+  - ai/5dgai
 ---
 ## 5 Phases of MLOps
 - Discover

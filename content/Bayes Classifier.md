@@ -3,8 +3,7 @@ title: Bayes Classifier
 draft: false
 date: 2025-01-21
 tags:
-  - stats
-  - bayesian
+  - stats/bayesian
 ---
 The [Bayes Classifier](https://en.wikipedia.org/wiki/Bayes_classifier) is a classifier that simply assigns an observation to the most likely class (the class with the highest probability), given some predictor values:
 $$

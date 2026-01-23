@@ -3,7 +3,7 @@ title: Common Table Expressions
 draft: false
 date: 2025-04-23
 tags:
-  - sql
+  - programming/sql
 ---
 [Common Table Expressions](https://www.geeksforgeeks.org/cte-in-sql/) are temporary, named results (tables) that we can generate using SQL. They're useful in that they help break down potentially complex queries into smaller, modular components that can be used in other parts of a larger query.
 

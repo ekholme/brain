@@ -3,9 +3,7 @@ title: Kettlebell Complexes
 draft: false
 date: 2024-12-31T00:00:00
 tags:
-  - kettlebells
-  - training
-  - lifting
+  - fitness/kettlebells
 ---
 A random assortment of kettlebell complexes I like.
 

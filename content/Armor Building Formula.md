@@ -3,9 +3,7 @@ title: Armor Building Formula
 draft: false
 date: 2025-01-09
 tags:
-  - kettlebells
-  - lifting
-  - training
+  - fitness/kettlebells
 ---
 The Armor Building Formula (ABF) is an 8-week kettlebell bodybuilding/workout program created by Dan John. The ABF comprises two different types of workouts -- a day of the [[Kettlebell Complexes#Armor Building Complex (ABC)| Armor Building Complex]] (ABC) and a day of high-volume overhead pressing. The ABF hits most of the body, but depending on your goals, you might want to add some chest or arm work.
 

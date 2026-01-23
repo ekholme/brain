@@ -3,9 +3,7 @@ title: Cinnamon Raisin Sourdough Boule
 draft: false
 date: 2025-05-30
 tags:
-  - baking
-  - bread
-  - sourdough
+  - baking/sourdough
 ---
 ## Ingredients
 - 500g bread flour

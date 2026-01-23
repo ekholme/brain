@@ -3,9 +3,7 @@ title: Minimalist Training
 draft: false
 date: 2024-11-13
 tags:
-  - training
-  - lifting
-  - kettlebells
+  - fitness/kettlebells
 ---
  
 Minimalist training is an approach to working out that emphasizes efficiency. The general idea is to get a very good workout in in a relatively short amount of time. One thing to keep in mind here is that these workouts optimize for efficiency, and they won't yield optimal hypertrophy, strength, or cardio results.

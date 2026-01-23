@@ -3,9 +3,8 @@ title: Agent Memory with ADK
 draft: false
 date: 2025-11-12
 tags:
-  - ai
-  - 5dgai
-  - agents
+  - ai/agents
+  - ai/5dgai
 ---
 This note contains an example of how to use memory with [[Google Agent Developer Kit]] (ADK) in [[Python]]. It pulls heavily from [this Kaggle notebook](https://www.kaggle.com/code/ekholme/day-3b-agent-memory/edit?fromFork=1)
 

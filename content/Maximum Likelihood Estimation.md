@@ -3,9 +3,8 @@ title: Maximum Likelihood Estimation
 draft: false
 date: 2024-12-12
 tags:
-  - algorithms
-  - stats
-  - math
+  - stats/probability
+  - stats/algorithms
 ---
 ## What is Maximum Likelihood Estimation?
 

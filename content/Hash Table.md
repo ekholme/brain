@@ -3,8 +3,8 @@ title: Hash Table
 draft: false
 date: 2025-07-17
 tags:
-  - data_structures
-  - julia
+  - programming/data_structures
+  - programming/julia
 ---
 A [hash table](https://en.wikipedia.org/wiki/Hash_table) is a data structure that maps keys to values. One of the foundational concepts of the hash table is that it uses a hash function -- a cryptographic function that takes an arbitrary input value and converts it to a large integer -- to compute an index. Hash tables take the pass the *key* in a key-value pair into the hash function to compute the index, and then the *value* in the key-value pair is stored in at this index.
 

@@ -3,9 +3,7 @@ title: Classical Test Theory
 draft: false
 date: 2024-11-21
 tags:
-  - psychometrics
-  - stats
-  - ctt
+  - stats/psychometrics
 ---
 ## What is Classical Test Theory?
 

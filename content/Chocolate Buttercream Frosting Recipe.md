@@ -3,9 +3,8 @@ title: Chocolate Buttercream Frosting Recipe
 draft: false
 date: 2025-01-22
 tags:
-  - baking
-  - cake
-  - recipe
+  - baking/frosting
+  - baking/cake
 ---
  *Recipe taken from [here](https://addapinch.com/perfect-chocolate-buttercream-frosting-recipe/)* 
 

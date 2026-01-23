@@ -3,8 +3,7 @@ title: Htmx
 draft: false
 date: 2025-06-30
 tags:
-  - web_dev
-  - go
+  - web_development
 ---
 [htmx](https://htmx.org/) is a Javascript library that makes it simpler to create reactive frontends by extending basic HTML with `hx-` attributes. Rather than requiring developers to use large front-end Javascript frameworks like React, htmx allows developers to write slightly modified html code to achieve reactivity. htmx allows for elements of a webpage/DOM to be updated in response to user behavior without a full page reload.
 

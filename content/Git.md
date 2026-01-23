@@ -3,7 +3,7 @@ title: Git
 draft: false
 date: 2025-04-30
 tags:
-  - git
+  - programming/git
 ---
 [Git](https://git-scm.com/) is a free and open-source version control system. It facilitates collaborative work on software projects.
 

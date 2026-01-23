@@ -3,9 +3,7 @@ title: Chocolate Cake Recipe
 draft: false
 date: 2025-01-22
 tags:
-  - baking
-  - cake
-  - recipe
+  - baking/cake
 ---
 Recipe taken from [here](https://addapinch.com/the-best-chocolate-cake-recipe-ever/#wprm-recipe-container-31552)
 

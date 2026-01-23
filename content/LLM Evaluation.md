@@ -3,9 +3,8 @@ title: LLM Evaluation
 draft: false
 date: 2025-03-31
 tags:
-  - ai
-  - 5dgai
-  - llms
+  - ai/5dgai
+  - ai/llms
 ---
 *These notes come from/are inspired by [this Kaggle notebook](https://www.kaggle.com/code/ekholme/day-1-evaluation-and-structured-output/edit) *
 

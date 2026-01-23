@@ -3,8 +3,7 @@ title: Bayesian Statistics
 draft: false
 date: 2024-11-15
 tags:
-  - bayesian
-  - stats
+  - stats/bayesian
 last_updated: 2024-12-04
 ---
 Here's [a link to a (somewhat shabby) set of notes I have on bayesian stats](https://ee-bayesian-stats.netlify.app/)

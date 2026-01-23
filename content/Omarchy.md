@@ -3,7 +3,7 @@ title: Omarchy
 draft: false
 date: 2026-01-07
 tags:
-  - linux
+  - linux/distro
 ---
 [Omarchy](https://omarchy.org/) is an opinionated [[Arch Linux]] operating system created by DHH. It's essentially Arch Linux with a suite of software installed and pre-made config files.
 

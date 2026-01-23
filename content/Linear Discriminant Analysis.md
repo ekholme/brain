@@ -3,7 +3,7 @@ title: Linear Discriminant Analysis
 draft: false
 date: 2025-02-13
 tags:
-  - stats
+  - stats/classification
 ---
 [Linear Discriminant Analysis](https://en.wikipedia.org/wiki/Linear_discriminant_analysis) (LDA) is a [[Classification|classification]] model. The basic idea of LDA is that it assumes, for each class $k$, that $f_k(X)$ is normal (in the case of $p$ = 1) or multivariate normal (if $p > 1$).
 

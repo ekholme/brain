@@ -3,7 +3,7 @@ title: Arch Linux
 draft: false
 date: 2025-12-30
 tags:
-  - linux
+  - linux/distro
 ---
 [Arch Linux](https://archlinux.org/) is a lightweight [[Linux]] distribution that prioritizes user control, simplicity, and novelty (in the sense of using the most current versions of most packages).
 

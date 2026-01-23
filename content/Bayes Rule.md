@@ -3,7 +3,7 @@ title: Bayes Rule
 draft: false
 date: 2025-04-25
 tags:
-  - bayesian
+  - stats/bayesian
 ---
 [Bayes' Rule](https://en.wikipedia.org/wiki/Bayes%27_theorem) (or Bayes' Theorem) gives the posterior probability of an event, $A$, conditional on some other event, $B$. It is useful for estimating the probability of a cause (A) given its effect (B).
 

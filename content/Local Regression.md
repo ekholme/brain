@@ -3,8 +3,8 @@ title: Local Regression
 draft: false
 date: 2025-03-20
 tags:
-  - stats
-  - R
+  - stats/regression
+  - programming/r
 ---
 *Local regression* involves fitting a flexible, non-linear function by computing the fit at a target point, $x_0$, using only the nearby training observations. We assign weights $K_{i_{0}}$ to the nearby observations for each value of $x_0$.
 

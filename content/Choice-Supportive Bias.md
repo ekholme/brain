@@ -3,7 +3,7 @@ title: Choice-Supportive Bias
 draft: false
 date: 2025-11-20
 tags:
-  - bias
+  - psychology/bias
 ---
 [Choice-supportive bias](https://en.wikipedia.org/wiki/Choice-supportive_bias) is a cognitive bias where people tend to retroactively view their decisions as being better than they objectively were. It involves selectively remembering positive aspects of the decision and downplaying (or forgetting) negative aspects. It can also include exaggerating the negative aspects of alternative choices.
 

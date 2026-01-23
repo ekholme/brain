@@ -3,9 +3,8 @@ title: Flex Creek Running Notes
 draft: false
 date: 2025-02-14
 tags:
-  - go
-  - web_dev
-  - learn_out_loud
+  - programming/go
+  - projects/personal
 ---
 ## Link to Github Repo
 [FlexCreek Github Repo](https://github.com/ekholme/flexcreek)

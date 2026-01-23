@@ -3,8 +3,8 @@ title: Cobra
 draft: false
 date: 2025-09-22
 tags:
-  - go
-  - cli
+  - programming/go
+  - programming/cli
 ---
 [Cobra](https://github.com/spf13/cobra) is a tool for creating CLI tools in [[Go]].
 

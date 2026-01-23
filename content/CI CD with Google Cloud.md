@@ -3,8 +3,8 @@ title: CI CD with Google Cloud
 draft: false
 date: 2025-06-12
 tags:
-  - gcp
-  - software_dev
+  - programming/devops
+  - programming/gcp
 ---
 [Continuous Integration/Continuous Deployment (CI/CD)](https://en.wikipedia.org/wiki/CI/CD) refers to a process of automating and continually developing software that prioritizes frequent merging, testing, and deployment of small changes.
 

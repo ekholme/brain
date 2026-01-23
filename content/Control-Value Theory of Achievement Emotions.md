@@ -3,7 +3,7 @@ title: Control-Value Theory of Achievement Emotions
 draft: false
 date: 2026-01-16
 tags:
-  - psych/emotions
+  - psychology/emotions
 ---
 The control-value theory (CVT) of achievement emotions describes achievement emotions in terms of appraisals of control and value as antecedents of emotions.
 

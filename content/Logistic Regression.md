@@ -3,10 +3,9 @@ title: Logistic Regression
 draft: false
 date: 2025-08-04
 tags:
-  - glm
-  - stats
-  - linear_model
-  - classification
+  - stats/classification
+  - stats/glm
+  - stats/linear_model
 ---
 [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression) is a statistical technique for predicting a binary outcome given a set of independent variables. It is a [[Generalized Linear Model]] that extends linear regression via a link function. In the case of logistic regression, the link function is the logit (sigmoid) function:
 $$

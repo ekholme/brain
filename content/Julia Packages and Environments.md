@@ -3,8 +3,7 @@ title: Julia Packages and Environments
 draft: false
 date: 2024-12-17
 tags:
-  - julia
-  - software_dev
+  - programming/julia
 ---
 ## Installing Packages: The Typical Approach
 

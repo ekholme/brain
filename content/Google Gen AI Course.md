@@ -3,9 +3,7 @@ title: Google Gen AI Course
 draft: false
 date: 2025-03-31
 tags:
-  - 5dgai
-  - ai
-  - google
+  - ai/5dgai
 ---
 This is a hub for notes and codelabs/notebooks associated with Google's 5 Day Intensive Generative AI Courses.
 

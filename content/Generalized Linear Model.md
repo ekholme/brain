@@ -3,9 +3,8 @@ title: Generalized Linear Model (GLM)
 draft: false
 date: 2025-04-28
 tags:
-  - glm
-  - linear_model
-  - stats
+  - stats/glm
+  - stats/linear_model
 ---
 [Generalized linear models (GLMs)](https://en.wikipedia.org/wiki/Generalized_linear_model) are statistical models that are, as the name suggests, generalizations of the ordinary linear model where
 $$

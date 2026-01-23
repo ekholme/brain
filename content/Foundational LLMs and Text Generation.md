@@ -3,9 +3,8 @@ title: Foundational LLMs and Text Generation
 draft: false
 date: 2025-03-31
 tags:
-  - ai
-  - llms
-  - 5dgai
+  - ai/5dgai
+  - ai/llms
 ---
 These are notes from the introductory unit of Google's 5-Day Gen AI Intensive Course
 ## Links

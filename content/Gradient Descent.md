@@ -3,9 +3,8 @@ title: Gradient Descent
 draft: false
 date: 2024-11-15
 tags:
-  - stats
-  - algorithms
-  - julia
+  - stats/algorithms
+  - programming/julia
 ---
  
 ## What is Gradient Descent?

@@ -3,15 +3,13 @@ title: Croissant Loaf Sourdough Recipe
 draft: false
 date: 2025-10-07
 tags:
-  - baking
-  - sourdough
-  - bread
+  - baking/sourdough
 ---
 ## Ingredients
 
 - 360g King Arthur bread flour
 - 220g warm water (can use anywhere from 200-240g)
-- 200g liquid perferment
+- 200g liquid preferment
 - 1 egg yolk
 - 13g sugar
 - 15g salt

@@ -3,8 +3,7 @@ title: Go
 draft: false
 date: 2024-12-05
 tags:
-  - programming_language
-  - go
+  - programming/go
 ---
 [Go](https://go.dev/) is a programming language developed by Google. It's statically-typed and emphasizes simplicity and explicitness in code. It's a general-purpose programming language, and it's often used for web development projects. One of its big selling points is its concurrency system.
 

@@ -3,8 +3,7 @@ title: Model Fit Statistics
 draft: false
 date: 2025-03-07
 tags:
-  - stats
-  - model_assessment
+  - stats/model_assessment
 ---
 Model fit statistics give us an indication of how well our statistical model fits our data. There are lots of different fit statistics depending on the type of model, but here are a few:
 
@@ -59,7 +58,13 @@ $$
 Where $n$ is the number of observations and $d$ is the number of predictors in the model.
 ## Accuracy
 
-TODO
+Accuracy is probably the most straightforward way to assess model quality for [[classification]] problems. It represents the percentage of cases where the predicted class is the true class, and it can be used in binary classification or in problems with multiple outcome classes.
+
+The formula for accuracy is:
+$$
+\text{Accuracy} = \frac{\text{Correct Predictions}}{\text{Total Predictions}}
+$$
+
 
 ## Structural Equation Modeling
 

@@ -3,9 +3,8 @@ title: Decision Trees
 draft: false
 date: 2025-06-02
 tags:
-  - stats
   - machine_learning
-  - tree-based-models
+  - stats/tree_based_models
 ---
 [Decision trees](https://en.wikipedia.org/wiki/Decision_tree#) are nonparametric statistical models that generate predictions by stratifying a given set of predictors $X$ into a number of simple regions, then predicting the outcome for each of these regions using either the mean (for regression problems) or the mode (for classification problems) of the response variable for all observations contained in that region.
 

@@ -3,8 +3,8 @@ title: Google Cloud (GCP)
 draft: false
 date: 2025-03-06
 tags:
+  - cloud/gcp
   - gcp
-  - cloud
 ---
 [Google Cloud (or GCP)](https://cloud.google.com/) is a set of cloud computing services offered by Google. Like other cloud computing services, it provides users with access to someone else's compute infrastructure. Google's, in this case. Essentially, this means users can perform a variety of computing tasks without having to deal with managing servers, databases, or handling other IT tasks.
 

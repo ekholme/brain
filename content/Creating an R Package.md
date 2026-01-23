@@ -3,8 +3,7 @@ title: Creating an R Package
 draft: false
 date: 2024-12-12
 tags:
-  - R
-  - software_dev
+  - programming/r
 ---
 
 *These notes just describe how to create a package -- they won't describe the whole development workflow of writing code, testing, building, etc.*

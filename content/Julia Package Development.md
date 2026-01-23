@@ -3,7 +3,7 @@ title: Julia Package Creation
 draft: false
 date: 2025-07-31
 tags:
-  - julia
+  - programming/julia
 ---
 ## Creating a Package
 

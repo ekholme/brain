@@ -3,8 +3,7 @@ title: Likelihood
 draft: false
 date: 2024-12-12
 tags:
-  - stats
-  - probability
+  - stats/probability
 ---
 In statistics, a [likelihood](https://en.wikipedia.org/wiki/Likelihood_function), or likelihood function, provides a quantitative measure of how well a statistical model explains a given set of data. It does this by calculating the probability of seeing that data under various parameter values of the model. This approach can help us estimate parameters of a model, as is the case in [[Maximum Likelihood Estimation]].
 

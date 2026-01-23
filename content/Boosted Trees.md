@@ -3,9 +3,8 @@ title: Boosted Trees
 draft: false
 date: 2025-06-04
 tags:
-  - stats
   - machine_learning
-  - tree-based-models
+  - stats/tree_based_models
 ---
 [Boosting](https://en.wikipedia.org/wiki/Gradient_boosting) is another ensemble method where we use multiple trees to predict some outcome. Unlike random forests or bagging, though, boosting requires trees to be grown sequentially.
 

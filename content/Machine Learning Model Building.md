@@ -3,7 +3,7 @@ title: Machine Learning Pipeline
 draft: false
 date: 2025-08-19
 tags:
-  - machine_learning
+  - machine_learning/model_building
 ---
 Broadly, building a machine learning model involves the following steps:
 

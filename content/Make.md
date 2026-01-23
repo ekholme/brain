@@ -3,9 +3,7 @@ title: Make and Makefiles
 draft: false
 date: 2024-11-25
 tags:
-  - make
-  - makefile
-  - software_dev
+  - programming/make
 ---
  
 ## What is Make
