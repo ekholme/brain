@@ -3,15 +3,12 @@ title: Python Package Development
 draft: false
 date: 2024-11-15
 tags:
-  - python
-  - packages
-  - dev
+  - programming/python
 ---
  
 This provides a bare-bones example of the workflow for creating and developing a python package. It is basically the workflow described in [Beuzen & Timbers' Python Packages book](https://py-pkgs.org/03-how-to-package-a-python#) but with some tweaks/some of my notes.
 
 And here's an [example repo](https://github.com/ekholme/demo_py_pkg)
-
 # Step 0: Install Tools
 
 We need the [poetry](https://python-poetry.org/) and [cookiecutter](https://github.com/cookiecutter/cookiecutter) tools to help manage dependencies and set up package templates. We can install these with [pipx](https://pipx.pypa.io/)

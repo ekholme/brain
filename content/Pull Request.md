@@ -3,8 +3,7 @@ title: Pull Request
 draft: false
 date: 2025-10-29
 tags:
-  - git
-  - software_dev
+  - programming/git
 ---
 A [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) (PR) is a proposal to merge a set of changes from one [[Git|git]] branch to another. They're helpful because they let contributors discuss the changes in a branch before merging them into another branch. They also show the differences (`diffs`) between the two branches so developers can easily see what will change.
 

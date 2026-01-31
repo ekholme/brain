@@ -3,7 +3,7 @@ title: Pushing to Multiple Git Remotes
 draft: false
 date: 2024-12-11
 tags:
-  - git
+  - programming/git
 ---
 There are cases where we might have one local git repository that we want to connect to multiple remote repositories. For instance, I might have a remote repository on Google Cloud Source Repositories and one on Github. If I want to update both with a single push (to keep them in sync), I can do the following.
 

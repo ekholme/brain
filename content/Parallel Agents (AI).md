@@ -3,9 +3,8 @@ title: Parallel Agents (AI)
 draft: false
 date: 2025-11-17
 tags:
-  - 5dgai
-  - ai
-  - agents
+  - ai/5dgai
+  - ai/agents
 ---
  "Parallel Agents" is a [[Multi-Agent AI Systems|multi-agent]] paradigm in which [[AI Agents]] work in parallel to accomplish a given task.
 

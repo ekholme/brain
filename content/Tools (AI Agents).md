@@ -3,9 +3,8 @@ title: Tools (AI Agents)
 draft: false
 date: 2025-11-11
 tags:
-  - 5dgai
-  - ai
-  - agents
+  - ai/5dgai
+  - ai/agents
 ---
 *Tools* are the tools that an [[AI Agents|AI agent]] has available to it to interact with the outside world. We might think of tools as aligning with common API methods (e.g. GET, POST, PATCH, DELETE). Tools allow agents to access real-time information. Tools tend to fall into 2 different buckets:
 

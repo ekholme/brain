@@ -4,7 +4,6 @@ draft: false
 date: 2024-11-13
 tags:
   - regex
-  - strings
 ---
  Regex is basically dark magic. Voodoo shit. It is short for **Reg**ular **Ex**pressions and is a paradigm for coding (e.g. finding, matching, subsetting) flexibly with strings.
  

@@ -3,9 +3,8 @@ title: R Package Maintenance
 draft: false
 date: 2025-01-15
 tags:
-  - "#R"
-  - software_dev
-  - programming
+  - programming/r
+  - meta/stub
 ---
 *This note is currently a stub*
 

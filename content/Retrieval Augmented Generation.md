@@ -3,9 +3,8 @@ title: Retrieval Augmented Generation (RAG)
 draft: false
 date: 2025-04-01
 tags:
-  - ai
-  - llms
-  - embeddings
+  - ai/llms
+  - machine_learning/embeddings
 ---
 
 Retrieval Augmented Generation (RAG) is a technique that allows LLMs to incorporate information that they weren't trained on into their knowledge base without having to retrain or fine-tune the models.

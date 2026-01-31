@@ -3,8 +3,8 @@ title: Principal Component Analysis
 draft: false
 date: 2025-03-25
 tags:
-  - stats
-  - unsupervise_learning
+  - stats/dimension_reduction
+  - stats/unsupervised_learning
 ---
 [Principal Component Analysis (PCA)](https://en.wikipedia.org/wiki/Principal_component_analysis) is a technique for reducing the dimensions of a matrix, $X$. The first principal component ($Z_1$) is the linear combination that captures the most variance in the data; the second principal component ($Z_2$) is the linear combination that captures the next most variance in the data, subject to the constraint that $Z_2$ is orthogonal to (uncorrelated with) $Z_1$, etc.
 

@@ -3,7 +3,7 @@ title: Normal Curve Equivalent (NCE)
 draft: false
 date: 2026-01-16
 tags:
-  - stats
+  - stats/psychometrics
 ---
 A [Normal Curve Equivalent](https://en.wikipedia.org/wiki/Normal_curve_equivalent) is a standardized score on a scale of 1-99 that is often used in education. NCEs have several desirable properties, including:
 

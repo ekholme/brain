@@ -3,8 +3,7 @@ title: Relational Databases
 draft: false
 date: 2025-06-23
 tags:
-  - sql
-  - databases
+  - database/relational_db
 ---
 A [relational database](https://en.wikipedia.org/wiki/Relational_database) (RDB) is a database that stores data in a set of interrelated tables, with each table comprising rows (observations) and columns (variables). RDBs are probably the most common type of database used today.
 

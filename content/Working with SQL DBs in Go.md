@@ -3,9 +3,9 @@ title: Working with SQL DBs in Go
 draft: false
 date: 2025-02-27
 tags:
-  - sql
-  - go
-  - databases
+  - programming/go
+  - programming/sql
+  - database/relational_db
 ---
 [[Go]]'s [database/sql](https://pkg.go.dev/database/sql) package -- part of the standard library -- provides a [DB](https://pkg.go.dev/database/sql#DB) struct that allows us to interact with SQL (relational) databases.
 

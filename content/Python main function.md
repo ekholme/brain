@@ -3,7 +3,7 @@ title: Python main function
 draft: false
 date: 2025-08-05
 tags:
-  - python
+  - programming/python
 ---
 Unlike languages like [[Go]], the `main()` function isn't a special, built-in part of [[Python]]. Instead, it's a convention that people use to execute code. It's typically paired with an `if __name__ == "__main__":` block, that looks like this:
 

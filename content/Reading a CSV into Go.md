@@ -3,7 +3,7 @@ title: Reading a csv into go
 draft: false
 date: 2025-09-29
 tags:
-  - go
+  - programming/go
 ---
 The general approach for reading a csv into [[Go]] is to:
 1. Open a file;

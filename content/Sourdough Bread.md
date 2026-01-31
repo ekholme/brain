@@ -3,8 +3,8 @@ title: Sourdough Bread
 draft: false
 date: 2025-04-28
 tags:
-  - baking
-  - bread
+  - baking/sourdough
+  - baking/bread
 ---
 Sourdough bread uses a sourdough starter, which contains wild yeast and bacteria, to leaven the dough rather than using commercial yeast. This is what gives sourdough its chewiness and its tangy flavor.
 

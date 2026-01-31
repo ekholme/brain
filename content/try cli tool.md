@@ -3,8 +3,7 @@ title: try (cli tool)
 draft: false
 date: 2025-12-30
 tags:
-  - programming
-  - cli
+  - programming/cli
 ---
 [try](https://github.com/tobi/try-cli) is a cli tool that helps you manage coding experiments.
 

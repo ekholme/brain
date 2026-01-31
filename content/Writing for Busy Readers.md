@@ -4,8 +4,9 @@ draft: false
 date: 2024-11-11
 tags:
   - writing
+  - writing/business
 ---
-A while ago, I read [Writing for Busy Readers](https://writingforbusyreaders.com/) and absolutely loved it. I would 100% recommend it to anyone with a job that involves even a teeny bit of writing.
+[Writing for Busy Readers](https://writingforbusyreaders.com/) is a book about exactly what it sounds like -- writing for people who don't have a lot of time to read whatever it is you're sending them. I would 100% recommend it to anyone with a job that involves even a teeny bit of writing.
 
 The whole book is worth reading, but I wanted to post a link to their 1-pager [cheat sheet](https://writingforbusyreaders.com/wp-content/uploads/2023/10/Writing-for-Busy-Readers-Checklist.pdf) here where I can more easily find it.
 

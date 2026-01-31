@@ -3,7 +3,7 @@ title: Toll House Bars
 draft: false
 date: 2025-03-17
 tags:
-  - baking
+  - baking/tray_bake
 ---
 ## Ingredients
 

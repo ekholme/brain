@@ -3,9 +3,8 @@ title: Multi-Agent AI Systems
 draft: false
 date: 2025-11-10
 tags:
-  - ai
-  - 5dgai
-  - agents
+  - ai/5dgai
+  - ai/agents
 ---
 ## Why Multi-Agent Systems?
 

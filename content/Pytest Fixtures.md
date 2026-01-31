@@ -3,8 +3,8 @@ title: Pytest Fixtures
 draft: false
 date: 2025-03-24
 tags:
-  - python
-  - testing
+  - programming/python
+  - programming/testing
 ---
 A [fixture](https://docs.pytest.org/en/stable/explanation/fixtures.html) in [Pytest](https://docs.pytest.org/en/stable/index.html) helps provide reliable, consistent context for running tests on our code. Most often, this means providing either some sort of known dataset to run our tests against or a database with known schema, configuration. But it could be any other object that we use to test our functions.
 

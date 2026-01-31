@@ -3,8 +3,8 @@ title: Writing Math in Obsidian
 draft: false
 date: 2024-11-19
 tags:
-  - latex
-  - math
+  - obsidian/math
+  - latex/math
 ---
 I am currently using the [Obsidian Latex Suite](https://github.com/artisticat1/obsidian-latex-suite) community plugin to write math equations. It offers a bunch of convenient [snippets](https://github.com/artisticat1/obsidian-latex-suite/blob/main/src/default_snippets.js) to make writing out equations and math notation faster.
 

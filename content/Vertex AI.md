@@ -4,8 +4,7 @@ draft: false
 date: 2025-04-03
 tags:
   - ai
-  - google
-  - gcp
+  - cloud/gcp
 ---
 [Vertex AI](https://cloud.google.com/vertex-ai?hl=en) is [[Google Cloud (GCP)|Google Cloud's]] AI and ML platform. It provides a set of tools for building, deploying, and scaling ML models. Although the tools in Vertex AI use [[Google Gemini]] models, they also provide infrastructure and [[MLOps]] capabilities.
 

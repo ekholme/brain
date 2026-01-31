@@ -3,8 +3,8 @@ title: Running R Scripts from the Command Line
 draft: false
 date: 2025-05-05
 tags:
-  - shell
-  - R
+  - programming/cli
+  - programming/r
 ---
 Sometimes we want to be able to execute R scripts from the command line. The basic way to do this is (in Powershell) via:
 

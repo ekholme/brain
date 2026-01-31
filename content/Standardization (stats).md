@@ -3,8 +3,7 @@ title: Standardization (statistics)
 draft: false
 date: 2024-12-17
 tags:
-  - stats
-  - feature_engineering
+  - machine_learning/feature_engineering
 ---
 [Standardizing](https://en.wikipedia.org/wiki/Standard_score) is a statistical approach that centers the mean of a distribution at 0 and scales the standard deviation of a distribution to 1. It's synonymous with "z-scoring."
 

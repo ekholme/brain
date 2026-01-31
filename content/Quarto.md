@@ -3,10 +3,10 @@ title: Quarto
 draft: false
 date: 2025-01-15
 tags:
-  - "#quarto"
-  - R
-  - python
-  - julia
+  - software/quarto
+  - programming/r
+  - programming/julia
+  - programming/python
 ---
 [Quarto](https://quarto.org/) is a "scientific and technical publishing system" that lets you weave together plain text markdown and executable code in a single document. It currently supports:
 

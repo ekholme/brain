@@ -3,9 +3,8 @@ title: Quarto Templates in R Packages
 draft: false
 date: 2025-02-24
 tags:
-  - quarto
-  - R
-  - software_dev
+  - software/quarto
+  - programming/r
 ---
 When developing an [[R]] package, we sometimes might want to include a [[Quarto]] template as part of the package. There might be better ways to approach this, but my approach has been inspired by [Meghan Hall's approach](https://meghan.rbind.io/blog/2024-08-14-quarto-templates/)
 

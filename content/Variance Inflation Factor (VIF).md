@@ -3,8 +3,7 @@ title: Variance Inflation Factor (VIF)
 draft: false
 date: 2025-09-08
 tags:
-  - stats
-  - model_diagnostics
+  - stats/model_assessment
 ---
 The [Variance Inflation Factor (VIF)](https://en.wikipedia.org/wiki/Variance_inflation_factor) is a metric that can be used to diagnose multicollinearity in regression models. The VIF can be estimated for each beta coefficient in a model, and it represents the extent to which a given coefficient is inflated due to multicollinearity. The formula for estimating VIF is:
 $$

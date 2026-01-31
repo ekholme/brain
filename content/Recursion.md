@@ -3,8 +3,8 @@ title: Recursion
 draft: false
 date: 2025-03-03
 tags:
-  - programming
-  - julia
+  - programming/algorithms
+  - programming/julia
 ---
 Recursion is a technique in programming where a function calls itself in its own definition. This approach is useful for breaking down complex problems into a series of self-similar problems.
 

@@ -3,9 +3,9 @@ title: Vector Databases
 draft: false
 date: 2025-10-16
 tags:
+  - machine_learning/embeddings
+  - database/vector_db
   - ai
-  - embeddings
-  - databases
 ---
 Vector databases are tools that combine the semantic meaning of [[Embeddings|vector embeddings]] with the efficient querying of vector search algorithms. Generally, these work as follows:
 

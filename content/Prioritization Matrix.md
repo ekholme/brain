@@ -3,7 +3,7 @@ title: Prioritization Matrix
 draft: false
 date: 2025-10-24
 tags:
-  - evaluation
+  - program_evaluation
 ---
 A prioritization matrix is a tool that can be used in strategic planning and evaluation scoping to categorize potential projects according to their *feasibility* and *impact*.
 

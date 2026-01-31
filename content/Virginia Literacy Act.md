@@ -3,8 +3,7 @@ title: Virginia Literacy Act
 draft: false
 date: 2025-10-10
 tags:
-  - education
-  - literacy
+  - education/literacy
 ---
 The [Virginia Literacy Act](https://www.doe.virginia.gov/teaching-learning-assessment/k-12-standards-instruction/english-reading-literacy/literacy/virginia-literacy-act) is legislation passed by the Virginia General Assembly in 2022 that establishes new requirements for literacy instruction in Virginia for students in grades K-8. Among the requirements of the VLA are:
 

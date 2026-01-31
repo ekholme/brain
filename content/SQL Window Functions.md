@@ -3,7 +3,7 @@ title: SQL Window Functions
 draft: false
 date: 2024-12-06
 tags:
-  - sql
+  - programming/sql
 ---
 From the [[Postgres]] introduction to window functions:
 

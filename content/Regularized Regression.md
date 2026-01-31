@@ -3,8 +3,7 @@ title: Regularized Regression
 draft: false
 date: 2024-12-16
 tags:
-  - stats
-  - linear_model
+  - stats/glm
 ---
 *Shrinkage methods* -- or regularization methods -- can considerably reduce the variance in coefficient estimates. The two most popular regularization techniques are *ridge regression* and the *lasso*
 ## Ridge Regression

@@ -3,9 +3,7 @@ title: Poisson Regression
 draft: false
 date: 2025-04-28
 tags:
-  - glm
-  - stats
-  - linear_model
+  - stats/glm
 ---
 [Poisson regression](https://en.wikipedia.org/wiki/Poisson_regression) is a regression used to model count data (i.e. when the dependent variable is a count of some occurrence). Poisson regression falls in the family of [[Generalized Linear Model|generalized linear models]] (GLMs). The canonical link function for Poisson regression is logarithm
 

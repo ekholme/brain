@@ -3,7 +3,7 @@ title: Shell Commands Cheat Sheet
 draft: false
 date: 2025-05-05
 tags:
-  - shell
+  - programming/shell
 ---
 
 ## List Files

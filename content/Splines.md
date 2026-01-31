@@ -3,8 +3,8 @@ title: Splines
 draft: false
 date: 2025-04-22
 tags:
-  - stats
-  - glm
+  - stats/gam
+  - stats/splines
 ---
 Regression splines are a flexible class of basis functions that extend polynomial regression and piecewise constant regression.
 

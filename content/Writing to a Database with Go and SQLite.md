@@ -3,10 +3,10 @@ title: Writing to a Database with Go and SQLite
 draft: false
 date: 2025-01-28
 tags:
-  - go
-  - sql
-  - sqlite
-  - tutorial
+  - programming/go
+  - programming/sql
+  - database/relational_db
+  - database/sqlite
 ---
 Below is a very basic snippet that shows how to write to an [[SQLite]] database using [[Go]].
 

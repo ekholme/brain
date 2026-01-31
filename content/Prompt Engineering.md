@@ -3,9 +3,8 @@ title: Prompt Engineering
 draft: false
 date: 2025-03-31
 tags:
-  - ai
-  - 5dgai
-  - llms
+  - ai/llms
+  - ai/5dgai
 ---
  
 These are notes from Unit 1 - Prompt Engineering of Google's 5 Day Gen AI Course

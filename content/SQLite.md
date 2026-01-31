@@ -3,9 +3,8 @@ title: SQLite
 draft: false
 date: 2024-11-11
 tags:
-  - databases
-  - sqlite
-  - sql
+  - database/relational_db
+  - programming/cli
 ---
 
 ## What is SQLite?

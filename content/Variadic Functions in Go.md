@@ -3,8 +3,7 @@ title: Variadic Functions in Go
 draft: false
 date: 2024-12-05
 tags:
-  - go
-  - programming
+  - programming/go
 ---
 A [variadic function](https://en.wikipedia.org/wiki/Variadic_function#) is a function that can take any number of arguments. A common use case for this is a function that can print out multiple things at once, and in fact [[Go]]'s `fmt.Println()` function is a good example of this. It's function signature is:
 

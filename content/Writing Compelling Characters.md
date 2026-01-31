@@ -3,8 +3,7 @@ title: Writing Compelling Characters
 draft: false
 date: 2025-10-29
 tags:
-  - writing
-  - fiction
+  - writing/fiction
 ---
 Ideas from Brandon Sanderson's lecture on [writing compelling characters](https://www.youtube.com/watch?v=G-6z7JqvDoE&list=PLSH_xM-KC3ZvzkfVo_Dls0B5GiE2oMcLY&index=6).
 

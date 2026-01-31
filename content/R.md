@@ -3,8 +3,7 @@ title: R
 draft: false
 date: 2024-12-06
 tags:
-  - R
-  - programming_language
+  - programming/r
 ---
 [R](https://www.r-project.org/) is an open-source programming language that specializes in statistics and data visualization.
 
