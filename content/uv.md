@@ -26,7 +26,9 @@ Then, install packages as appropriate, via:
 `uv add package-name`, e.g. `uv add polars`
 
 We can install local packages with something like:
-`uv pip install path/to/my/package`
+`uv add --editiable path/to/my-local-package`
+
+The `--editable` command creates a symlink between the current project and `my-local-package` to automatically sync code without needing to reinstall.
 
 ## Versions
 
