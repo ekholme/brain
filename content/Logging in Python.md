@@ -11,9 +11,10 @@ The `logging` module in [[Python]] is designed to be easy to use. It does many t
 ```python
 import logging
 
+#ensure the log directory exists
+os.makedirs("logs", exist_ok=True),
+
 logging.basicConfig(
-	#ensure the log directory exists
-	os.makedirs("logs", exist_ok=True),
 	filename = "logs/mylog.log",
 	level = logging.INFO, #sets the minimum lvl of message to be logged 
 	format = "%(asctime)s - %(levelname)s - %(message)s",
