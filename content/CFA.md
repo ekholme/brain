@@ -5,7 +5,7 @@ date: 2024-11-21
 tags:
   - stats/sem
 ---
-[Confirmatory factor analysis (CFA)](https://en.wikipedia.org/wiki/Confirmatory_factor_analysis) is a special type of [[Structural Equation Model| structural equation model]] in which a factor (or multiple factors) is represented by several indicator variables/measurements. The goal of CFA is to validate some hypothesized measurement model.
+[Confirmatory factor analysis (CFA)](https://en.wikipedia.org/wiki/Confirmatory_factor_analysis) is a special type of [[Structural Equation Modeling| structural equation model]] in which a factor (or multiple factors) is represented by several indicator variables/measurements. The goal of CFA is to validate some hypothesized measurement model.
 
 The general idea behind CFA is that we might believe a person possesses some underlying, immeasurable construct -- say, math aptitude. Because we can't directly measure math aptitude, we might give the person a math test that has several questions, and our hypothesis is that the questions on this test appropriately measure math aptitude. We then use CFA to confirm (hence the name!) that the items suitably measure this construct. We make claims about the appropriateness/goodness of the model by examining the factor loadings and fit statistics of the model.
 
