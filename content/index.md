@@ -15,6 +15,7 @@ Probably the best way to navigate is to just search for content, but here are a 
 ## Fitness
 - [[Kettlebell Complexes]]
 - [[Armor Building Formula]]
+- [[Minimalist Training]]
 ## Stats/ML
 - [[Maximum Likelihood Estimation]]
 - [[Gradient Descent]]
@@ -22,7 +23,5 @@ Probably the best way to navigate is to just search for content, but here are a 
 - [[Splines]]
 - [[Machine Learning Model Building]]
 ## Technology/Coding
-- [[FlexCreek Running Notes]]
-- [[Go Interfaces]]
-- [[Julia Packages and Environments]]
-- [[Python main function]]
+- [[Linux]]
+- [[Omarchy]]

@@ -47,7 +47,6 @@ If we fit multiple models -- or the same model with multiple candidate hyperpara
 
 The 3 languages I tend to use for ML tasks are [[R]], [[Python]], and [[Julia]]. Each of these languages has its own meta-framework for building ML models, although it's also possible to build all of these "from scratch."
 
-
 | Language | ML Framework                                    |
 | -------- | ----------------------------------------------- |
 | R        | [tidymodels](https://www.tidymodels.org/)       |
