@@ -19,3 +19,4 @@ Broadly, the steps in a given causal analysis might be:
 ## See Also
 - [[Target Trial Emulation]]
 - [[Causal Assumptions]]
+- [[Collider-Stratification Bias]]
