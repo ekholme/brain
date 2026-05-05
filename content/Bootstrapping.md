@@ -26,7 +26,7 @@ The general process is:
 3. Repeat the process *n* times, where *n* is a fairly large number (usually at least 1,000).
 4. Use your *n* estimates as the distribution of your quantity. You can use this to calculate the mean, standard error, confidence intervals, etc.
 ## Implementation
-Below is a basic demonstration (in Julia) of bootstrapping to estimate various percentiles of a distribution.
+Below is a basic demonstration (in [[Julia]]) of bootstrapping to estimate various percentiles of a distribution.
 
 ```julia
 using Distributions
