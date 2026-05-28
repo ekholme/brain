@@ -5,6 +5,7 @@ date: 2025-11-24
 tags:
   - books/book_review
   - author/Thomas_Pynchon
+  - literature/postmodernism
 ---
 [V](https://en.wikipedia.org/wiki/V.) is a postmodern novel published in 1963 by Thomas Pynchon that follows Benny Profane -- a former Navy sailor, now living in the Bohemian scene in New York -- and Herbert Stencil -- a pseudo (?) detective trying to track down the mysterious "V."
 
