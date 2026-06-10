@@ -20,3 +20,4 @@ Broadly, the steps in a given causal analysis might be:
 - [[Target Trial Emulation]]
 - [[Causal Assumptions]]
 - [[Collider-Stratification Bias]]
+- [[Randomized Controlled Trial (RCT)]]
