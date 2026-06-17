@@ -191,3 +191,6 @@ type Storer interface {
 ```
 
 One of the benefits of this is that it is modular and flexible -- we can easily add another component within the `Storer` interface if we need to (e.g. a `LogStorer`) while still maintaining a small surface area of methods on each individual component.
+
+## See Also
+- [[Dependency Injection]]
