@@ -162,6 +162,7 @@ We can have another AI agent  serve as a monitor that watches for these things (
 ## Related Resources
 
 - [[Multi-Agent AI Systems]]
+- [[Agent Skills]]
 ### Links
 - [Link to Spring 2025 podcast](https://www.youtube.com/watch?v=D3Kaqz7VW28&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=5)
 - [Link to Fall 2025 podcast](https://www.youtube.com/watch?v=zTxvGzpfF-g)
