@@ -42,3 +42,6 @@ IRT models are named according to how many parameters they have. The three param
 A *3PL* (3 parameter logistic) model has all three parameters, a *2PL* model has the difficulty and discrimination parameters, and a *1PL* model has only the difficulty parameter.
 
 A 2PL model might be appropriate for questions where it's unlikely that a person will guess the answer correctly ("What is the square root of 121?"). A 1PL model is analogous to a [[CFA|confirmatory factor analysis]] model with equal factor loadings across items. In other words, it assumes all items are equally discriminatory.
+
+## See Also
+- [[Rasch Model]]
