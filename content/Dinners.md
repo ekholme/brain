@@ -11,10 +11,11 @@ Some dinners I tend to make.
 - Grilled pork chops with jalapenos and onions
 - Grilled pork with pineapple and bell pepper
 
-## Steak
+## Steak / Beef
 - Beef and broccoli (with rice or udon noodles)
 - Steak frites
 - Steak & asparagus
+- Roast with chickpeas, kalamata olives, garlic, & red wine
 
 ## Ground Sausage or Ground Beef
 - Sausage roll
@@ -28,6 +29,7 @@ Some dinners I tend to make.
 - Yogurt grilled chicken with veggie (typically broccoli or asparagus)
 - Dirty rice (chicken thigh & kielbasa sausage)
 - Chicken thighs with orzo, olives, & artichoke hearts (recipe from *Half Baked Super Simple*)
+- Thai basil stir fry with ground chicken
 
 ## Fish
 - Golden fried rice with salmon
@@ -38,6 +40,7 @@ Some dinners I tend to make.
 - Clam linguine with lemon white wine sauce
 - Spaghetti with ground beef
 - Chicken alfredo
+- Linguine with ground pork & peas
 
 ## Other
 - Brinner
