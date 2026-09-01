@@ -41,6 +41,7 @@ Some dinners I tend to make.
 - Spaghetti with ground beef
 - Chicken alfredo
 - Linguine with ground pork & peas
+- Lentil soup with bacon
 
 ## Other
 - Brinner

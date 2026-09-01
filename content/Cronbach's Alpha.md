@@ -6,7 +6,7 @@ tags:
   - stats/psychometrics
   - psychometrics/reliability
 ---
-[Cronbach's alpha](https://en.wikipedia.org/wiki/Cronbach%27s_alpha) is a reliability coefficient and a measure of internal consistency of a test/scale. The formula for alpha is:
+[Cronbach's alpha](https://en.wikipedia.org/wiki/Cronbach%27s_alpha) is a [[reliability]] coefficient and a measure of internal consistency of a test/scale. The formula for alpha is:
 $$
 \alpha = \frac{k}{k-1}\left( 1-\frac{\sum_{i=1}^k\sigma^2_{y_{i}}}{\sigma^2_{X}} \right)
 $$

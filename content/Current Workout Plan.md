@@ -5,17 +5,18 @@ date: 2025-12-31
 tags:
   - fitness/kettlebells
 ---
-*Updated 2026-06-07*
+*Updated 2026-08-17*
 
 **Monday**
-- [[Kettlebell Complexes#Armor Building Complex (ABC)|ABC]]
-- High-volume KB OHP if hip is sore
+- pull-ups/push-ups supersets
+- leg accessories
+- sauna
  
 **Tuesday**
-Moderate cardio. 20-35 minutes total.
+- Moderate cardio. 20-35 minutes total.
 
 **Wednesday**
-- Push ups, pull ups, kettlebell swings
+- Moderate cardio
 
 **Thursday**
 Rest.

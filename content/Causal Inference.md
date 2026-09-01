@@ -11,8 +11,8 @@ Broadly, the steps in a given causal analysis might be:
 1. Specify a causal question;
 2. Draw our assumptions about the relationships between the variables of interest using a causal diagram (a DAG);
 3. Collect data (if we don't already have it);
-4. Model our assumptions;
-5. Diagnose our models;
+4. Model our assumptions (e.g. use propensity score matching);
+5. Diagnose our models (e.g. diagnose the effectiveness of our propensity score matching procedure);
 6. Estimate the causal effect;
 7. Conduct sensitivity analyses on the effect estimate
 
