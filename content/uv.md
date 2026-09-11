@@ -5,7 +5,7 @@ date: 2025-07-01
 tags:
   - programming/python
 ---
-[uv](https://docs.astral.sh/uv/) is a python package and project manager, written in Rust. It's really fast and, from my limited usage, feels really good.
+[uv](https://docs.astral.sh/uv/) is a python package and project manager, written in Rust. It's really fast and feels really good.
 
 ## Project Workflow
 
