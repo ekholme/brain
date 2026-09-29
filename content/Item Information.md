@@ -8,7 +8,7 @@ tags:
 ---
 In [[Item Response Theory]], Item Information quantifies the precision with which a given item measures a test-taker's latent ability, $\theta$.
 
-In [[Classical Test Theory]], we assume that items are equally precise across all test-takers. In contrast, measures precision as a function of ability. And item information tells you where along a continum of ability a given item functions best (i.e. where it provides the most information).
+In [[Classical Test Theory]], we assume that items are equally precise across all test-takers. In contrast, IRT measures precision as a function of ability. And item information tells you where along a continuum of ability a given item functions best (i.e. where it provides the most information).
 
 Item Information is inversely related to standard error.
 
