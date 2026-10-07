@@ -26,11 +26,11 @@ Components use [JSON RPC 2.0](https://en.wikipedia.org/wiki/JSON-RPC#Version_2.0
 
 For local processes, we can use standard input/output because it's fast and efficient.
 
-For networked processes, we use streamable HTTP.
+For networked processes, we use server-sent events (SSE) over HTTP.
 
 ## Tools in MCP
 
-MCP provides a standardized way to make [[Tools (AI Agents)|tools]] available to clients. Tool definitions must conform to a JSON schema with the following fields:
+MCP provides a standardized way to make features available to clients. These features can include [[Tools (AI Agents)|tools]], resources (e.g. read-only data sources like API responses), and prompts/other predefined templates and workflows. Feature definitions must conform to a JSON schema with the following fields:
 
 - `name`: Unique identifier for the tool
 - `title:` (optional) human-readable name for display purposes
@@ -49,9 +49,9 @@ When a tool is called, results can come back as structured or unstructured data.
 
 ## Security
 
-One of the biggest drawbacks of MCP is that it doesn't include many security features and controls that are implemented in traditional API endpoints. And the breadth of the MCP protocol (including the variety of tools you can expose in it) can make security more difficult.
+One of the biggest drawbacks of MCP is that it doesn't include many security features and controls that are implemented in traditional API endpoints. And the breadth of the MCP protocol (including the variety of tools you can expose in it) can make security more difficult. There are some security features included, such as requiring humans to confirm certain actions (e.g. running shell scripts), scope-restricted access, and local process sandboxing.
 
-To solve this, we need to wrap the MCP in security layers (authorization, authentication, rate-limiting, etc.). Since the security isn't *in* MCP, it needs to be *around* MCP.
+Generally, most of a hosts security is wrapped around the MCP, including in layers for authorization, authentication, and rate-limiting, etc. 
 
 ## Example: Using MCP with Agents
 
@@ -110,3 +110,86 @@ runner = InMemoryRunner(agent=image_agent)
 
 response = await runner.run_debug("Provide a sample tiny image", verbose=True)
 ```
+## Example: Querying a Postgres Database with Claude Code
+
+Imagine we want to query a Postgres database from Claude Code and see the results in the terminal.
+### Step 1: Configuration
+First, we register an MCP server with Claude Code:
+
+```bash
+claude mcp add postgresql --env DATABASE_URL="postgresql://user:pass@localhost:5432/mydb" -- npx -y @modelcontextprotocol/server-postgres
+```
+
+This generates an entry in `.mcp.json` that looks something like this:
+
+```json
+{
+  "mcpServers": {
+    "postgresql": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-postgres"],
+      "env": {
+        "DATABASE_URL": "postgresql://user:pass@localhost:5432/mydb"
+      }
+    }
+  }
+}
+```
+### Step 2: Protocol Exchange
+Once we have the Postgres MCP installed, Claude code will execute the command described above (e.g. `npx -y @modelcontextprotocol/server-postgres`) as a background process. Claude Code will send a request to list tools to the server, and the serve will respond with something like this:
+```json
+{
+  "jsonrpc": "2.0",
+  "id": 1,
+  "result": {
+    "tools": [
+      {
+        "name": "query_db",
+        "description": "Executes a SQL query against the connected database.",
+        "inputSchema": {
+          "type": "object",
+          "properties": {
+            "sql": { "type": "string" }
+          },
+          "required": ["sql"]
+        }
+      }
+    ]
+  }
+}
+```
+### Step 3: User Interaction
+If we prompt Claude Code to check if a user with email dev@example.com exists in our database, Claude will:
+1. Decide it needs to use the `query_db` tool from the Postgres server;
+2. Issue a tool call -- something like:
+```json
+{
+  "jsonrpc": "2.0",
+  "method": "tools/call",
+  "params": {
+    "name": "query_db",
+    "arguments": {
+      "sql": "SELECT id, email, is_active FROM users WHERE email = 'dev@example.com';"
+    }
+  },
+  "id": 2
+}
+```
+
+3. The MCP server runs the query against the Postgres database and returns the result in a structured format, e.g.:
+```json
+{
+  "jsonrpc": "2.0",
+  "id": 2,
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "[{\"id\": 42, \"email\": \"dev@example.com\", \"is_active\": true}]"
+      }
+    ]
+  }
+}
+```
+
+4. Claude parses the response and returns it in a more readable format.
