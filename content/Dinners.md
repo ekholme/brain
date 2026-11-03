@@ -16,7 +16,7 @@ Some dinners I tend to make.
 - Steak frites
 - Steak & asparagus
 - Roast with chickpeas, kalamata olives, garlic, & red wine
-
+- Slow cooker pot roast
 ## Ground Sausage or Ground Beef
 - Sausage roll
 - Smash burgers
